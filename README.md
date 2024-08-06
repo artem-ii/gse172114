@@ -7,7 +7,7 @@
 - SRA Tools and entrez-direct - to get raw FASTQ files from NCBI >
 - FastQC/MultiQC - for quality control >
 - trimmomatic - for adapter trimming and excluding incomplete reads >
-- STAR - for building index and alignment to GENCODE v23 reference >
+- STAR - for building index and alignment to GENCODE v29 reference >
 - featureCounts - to quantify the reads >
 - pyDESEQ2 - for Differential expression >
 - pyGSEA - for Gene Set Enrichment Analysis >
