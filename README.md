@@ -41,6 +41,10 @@ The downstream analysis (in the 'downstream_analysis' directory) was mainly perf
 
 Analysis was performed using conda or virtualenv environment. Specifications of the environment are in spec-file.txt in the 'downstream_analysis' directory.
 
+seq2HLA script was modified to only map HLAII genes, but not HLA I
+
+Minor modifications were made to Kassandra core scripts to avoid encountered bugs/incompatibility issues 
+
 ## Conclusion
 - Raw data from the GSE172114 dataset were processed nominally, the quality is normal, alignment went well with a mean of about 30M reads per sample
 - Differential gene expression analysis showed 1111 changed genes with a strict cutoff of log2FC > 1 and adjusted P value of less than 0.05. Among the top transcripts up-regulated in the COVID-19 critical patients are some immunity related genes. Notably CD177 and MCEMP1 expressed on neutrophils, mast cells (MCEMP1), and monocytes.
