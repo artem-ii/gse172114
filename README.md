@@ -1,6 +1,6 @@
-The main jupyter notebook is located in:
+## The main jupyter notebook is located in:
     downstream_analysis/bostongene_rnaseq.ipynb
-Current pipeline uses:
+## Current pipeline uses:
 - SRA Tools and entrez-direct - to get raw FASTQ files from NCBI >
 - FastQC/MultiQC - for quality control >
 - trimmomatic - for adapter trimming and excluding incomplete reads >
