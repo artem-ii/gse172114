@@ -1,0 +1,19 @@
+STAR --runThreadN 64 --runMode genomeGenerate --genomeDir ./index --genomeFastaFiles /wrk-vakka/users/nikiarte/sra_test/SRR14240730/GRCh38.primary_assembly.ge
+nome.fa --sjdbGTFfile /wrk-vakka/users/nikiarte/sra_test/SRR14240730/gencod
+e.v29.primary_assembly.annotation.gtf --sjdbOverhang 100                  
+        STAR --runThreadN 64 --runMode genomeGenerate --genomeDir ./index --genomeFastaFiles /wrk-vakka/users/nikiarte/sra_test/SRR14240730/GRCh38.primary_assembly.genome.fa --sjdbGTFfile /wrk-vakka/users/nikiarte/sra_test/SRR14240730/gencode.v29.primary_assembly.annotation.gtf --sjdbOverhang 100  
+        STAR version: 2.7.10b   compiled: 2024-02-29T12:24:06+02:00 ukko2-11:/wrk-vakka/turso/group/it4sci/easybuild/build/STAR/2.7.10b/GCC-11.3.0/STAR-2.7.10b/source
+Jul 09 20:01:12 ..... started STAR run                                    
+Jul 09 20:01:12 ... starting to generate Genome files                     
+^[[A^[[A^[[Jul 09 20:01:53 ..... processing annotations GTF               
+Jul 09 20:02:11 ... starting to sort Suffix Array. This may take a long time...
+Jul 09 20:02:25 ... sorting Suffix Array chunks and saving them to disk...
+
+
+wget ftp://ftp.ensembl.org/pub/release-96/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+
+wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_46/gencode.v46.primary_assembly.annotation.gtf.gz
+
+wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_29/gencode.v29.annotation.gtf.gz
+
+mv ../subread-2.0.2-Linux-x86_64 shellScripts/subread-2.0.2-Linux-x86_64/

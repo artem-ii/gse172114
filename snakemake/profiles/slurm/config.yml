@@ -1,0 +1,15 @@
+# Tell snakemake to use Slurm
+executor: slurm
+
+# Maximum number of parallel jobs
+jobs: 100  
+
+# Default resources for all rules (overwritten by set-threads and set-resources)
+default-resources:
+        slurm_partition: bigmem
+        mem: 512GB
+        runtime: 2-0:0:0
+
+# Set other resources (in this case memory and time) for rule(s)
+# Formats are described in: 
+# https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html#standard-resources

@@ -1,0 +1,119 @@
+import os
+import glob
+
+ACC, READ_DIRECTION = glob_wildcards("data/samples/{acc}_{read_direction}.fastq")
+
+rule all:
+    input:
+        expand("fastqc_notrim/{acc}_{read_direction}_fastqc.{extension}", acc=ACC, read_direction=READ_DIRECTION,
+               extension=["zip", "html"]),
+        expand("mapped/{acc}Aligned.sortedByCoord.out.bam", acc=ACC),
+        expand("featureCounts/{acc}.txt", acc=ACC),
+        expand("hla_typing/{acc}-ClassII.HLAgenotype2digits", acc=ACC),
+       # "genome/kallisto/GCA_000001405.15_GRCh38_no_alt_analysis_set.idx",
+        expand("kallisto_abundance/{acc}/abundance.tsv", acc=ACC)
+
+rule fastqc_notrim:
+    input:
+        sample="data/samples/{acc}_{read_direction}.fastq"
+    output:
+        folder="fastqc_notrim/{acc}_{read_direction}_fastqc.zip",
+        report="fastqc_notrim/{acc}_{read_direction}_fastqc.html"
+    params:
+        outdir="fastqc_notrim"
+    threads:
+        64
+    shell:
+        """
+        fastqc {input.sample} -o {params.outdir} --threads {threads}
+        """
+
+rule trim:
+    input:
+        sampleF="data/samples/{acc}_1.fastq",
+        sampleR="data/samples/{acc}_2.fastq"
+    output:
+        trimmedF="trimmed/{acc}_1P.fastq",
+        trimmedR="trimmed/{acc}_2P.fastq"
+    threads:
+        64
+    params:
+        baseout="trimmed/{acc}.fastq",
+        log="trimmed/{acc}.log"
+    shell:
+        """
+        trimmomatic PE -threads {threads} {input.sampleF} {input.sampleR} -baseout {params.baseout} ILLUMINACLIP:TruSeq3-PE-2.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 MINLEN:36 2>{params.log}
+        """
+
+rule star_map:
+    input:
+        sampleF=rules.trim.output.trimmedF,
+        sampleR=rules.trim.output.trimmedR
+    output:
+        bam_file="mapped/{acc}Aligned.sortedByCoord.out.bam"
+    params:
+        prefix="mapped/{acc}"
+    threads:
+        64
+    shell:
+        """
+        STAR --readFilesIn {input.sampleF} {input.sampleR} --outFileNamePrefix {params.prefix} --outSAMtype BAM SortedByCoordinate --genomeDir genome/indeces --genomeLoad LoadAndKeep --runThreadN {threads} --outFilterIntronMotifs RemoveNoncanonical --limitBAMsortRAM 50000000000 --outReadsUnmapped Fastx
+        """
+
+rule feature_counts:
+    input:
+        aligned_reads=rules.star_map.output.bam_file
+    output:
+        counts_file="featureCounts/{acc}.txt"
+    threads:
+        64
+    params:
+        out_file="featureCounts/{acc}.txt"
+    shell:
+        """
+        shellScripts/subread-2.0.2-Linux-x86_64/bin/featureCounts -p -O -T {threads} -s 2 -a genome/gencode.v29.annotation.gtf -o {params.out_file} {input.aligned_reads}
+        """
+
+rule seq2hla:
+    input:
+        sampleF="data/samples/{acc}_1.fastq",
+        sampleR="data/samples/{acc}_2.fastq"
+    output:
+        hla_counts="hla_typing/{acc}-ClassII.HLAgenotype2digits"
+    threads:
+        64
+    params:
+        out_prefix="hla_typing/{acc}"
+    shell:
+        """
+        python shellScripts/seq2hla/seq2HLA_class2_only.py -1 {input.sampleF} -2 {input.sampleR} -r {params.out_prefix} -p {threads}
+        """
+#rule kallisto_index:
+#    input:
+#        reference="genome/kallisto/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna"
+#    output:
+#        index="genome/kallisto/GCA_000001405.15_GRCh38_no_alt_analysis_set.idx"
+#    threads:
+#        64
+#    shell:
+#        """
+#        shellScripts/kallisto/kallisto index -i {output.index} {input.reference} 
+#        """
+    
+
+rule kallisto_align:
+    input:
+        sampleF="trimmed/{acc}_1P.fastq",
+        sampleR="trimmed/{acc}_2P.fastq",
+        index="genome/kallisto/index_premade/kallisto_hg38.idx"
+    output:
+        counts="kallisto_abundance/{acc}/abundance.tsv"
+    params:
+        out_dir="kallisto_abundance/{acc}/"
+    threads:
+        150
+    shell:
+        """
+        shellScripts/kallisto/kallisto quant -i {input.index} -o {params.out_dir} --rf-stranded -t {threads} {input.sampleF} {input.sampleR}
+        """
+

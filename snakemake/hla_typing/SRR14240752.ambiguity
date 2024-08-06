@@ -1,0 +1,1464 @@
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DRA*01:01	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DRA*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DRA*01:01	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DRA*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DRA*01:01	NA
+DRA*01:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DRA*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.1187245
+DPA1*02:03	0.8478408
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPB1*02:01	0.002413451
+DPB1*02:02	0.9999726
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQA1*01:01	0.42202
+DQA1*01:04	0.42202
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQA1*01:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DQB1*02:01	NA
+DQB1*02:02	NA
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DQB1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
+#################################################################################################
+#Ambiguity:
+#Based on the RNA-Seq reads and the dbMHC table, the following 4-digits alleles are possible:
+DPA1*02:01	0.4588287
+DPA1*02:03	0.98741
+#However, by taking into account the read data, the most probable 4-digit allele is:
+DPA1*02:01
+
