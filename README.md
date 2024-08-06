@@ -1,5 +1,8 @@
 ## The main jupyter notebook is located in:
     downstream_analysis/bostongene_rnaseq.ipynb
+## Commands calling the tools can be found in
+    snakemake/Snakefile
+### Most of data was excluded from the commit to avoid inflating of the repo
 ## Current pipeline uses:
 - SRA Tools and entrez-direct - to get raw FASTQ files from NCBI >
 - FastQC/MultiQC - for quality control >
