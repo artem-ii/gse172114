@@ -2,6 +2,13 @@
     downstream_analysis/bostongene_rnaseq.ipynb
 ## Commands calling the tools can be found in
     snakemake/Snakefile
+## Package listings for virtual environments
+1. Conda environment I used to do DESeq2 analysis on my mac:
+    environments_requirements/mac_conda_spec-file.txt
+2. Conda environment I used on ubuntu HPC for most CLI work (alignment, QC etc)
+    environments_requirements/ubuntu_conda_spec-file.txt
+3. venv environment I used with Jupyter Lab on HPC (WGCNA, deconvolution etc):
+    environments_requirements/ubuntu_downstream_venv_requirements.txt
 ### Most of raw and processed data files were excluded from the commit to avoid the inflation of the repo
 ## Current pipeline uses:
 - SRA Tools and entrez-direct - to get raw FASTQ files from NCBI >
@@ -44,6 +51,8 @@ Analysis was performed using conda or virtualenv environment. Specifications of 
 seq2HLA script was modified to only map HLAII genes, but not HLA I
 
 Minor modifications were made to Kassandra core scripts to avoid encountered bugs/incompatibility issues 
+
+
 
 ## Conclusion
 - Raw data from the GSE172114 dataset were processed nominally, the quality is normal, alignment went well with a mean of about 30M reads per sample
