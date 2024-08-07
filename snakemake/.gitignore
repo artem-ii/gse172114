@@ -1,6 +1,4 @@
 genome/
 .snakemake
 data/
-kallisto_abundance/
-mapped/
 references/

@@ -1,0 +1,13 @@
+{
+	"n_targets": 197044,
+	"n_bootstraps": 0,
+	"n_processed": 44600090,
+	"n_pseudoaligned": 20663075,
+	"n_unique": 7161180,
+	"p_pseudoaligned": 46.3,
+	"p_unique": 16.1,
+	"kallisto_version": "0.46.1",
+	"index_version": 10,
+	"start_time": "Tue Aug  6 01:56:02 2024",
+	"call": "shellScripts/kallisto/kallisto quant -i genome/kallisto/index_premade/kallisto_hg38.idx -o kallisto_abundance/SRR14240759/ --rf-stranded -t 150 trimmed/SRR14240759_1P.fastq trimmed/SRR14240759_2P.fastq"
+}

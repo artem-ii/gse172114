@@ -19,3 +19,5 @@ hla-env/
 rnaseq_task_env/
 rnaseq_task_environment/
 deconvolution/
+abundance.h5
+abundance.tsv

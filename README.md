@@ -1,4 +1,4 @@
-UPD 20240807_1: added QC reports from Trimmomatic, realized that I added them to .gitignore by mistake
+UPD 20240807_1: added QC reports and logs from Trimmomatic, STAR and logs for Kallisto realized that I added them to .gitignore by mistake
 
 UPD 20240807_2: added some more tool descriptions to Snakefile
 
