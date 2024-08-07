@@ -53,7 +53,7 @@ Quality control or raw data and other steps (with MultiQC) indicated reasonable 
 
 The downstream analysis (in the 'downstream_analysis' directory) was mainly performed on a Jupyter Lab instance of the HPC with 8 CPU and 128GB memory.
 
-Analysis was performed using conda or virtualenv environment. Specifications of the environment are in spec-file.txt in the 'downstream_analysis' directory.
+Analysis was performed using conda or virtualenv environment. Specifications of the environment are in the 'environments_requirements' directory.
 
 seq2HLA script was modified to only map HLAII genes, but not HLA I
 
