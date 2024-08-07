@@ -1,5 +1,6 @@
 *.mate1
 *.mate2
 *.tab
-SRR*
 *.bam
+multiqc_data/
+multiqc_report.html
