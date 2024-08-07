@@ -1,3 +1,6 @@
+UPD 20240807_1: added QC reports from Trimmomatic, realized that I added them to .gitignore by mistake
+UPD 20240807_2: added some more tool descriptions to Snakefile
+
 ## The main jupyter notebook is located in:
     downstream_analysis/bostongene_rnaseq.ipynb
 ## Commands calling the tools can be found in

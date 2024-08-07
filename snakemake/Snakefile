@@ -28,6 +28,10 @@ rule fastqc_notrim:
         fastqc {input.sample} -o {params.outdir} --threads {threads}
         """
 
+# MultiQC was run with a single command from terminal after most tools.
+# Can be also added to snakemake.
+
+
 rule trim:
     input:
         sampleF="data/samples/{acc}_1.fastq",
@@ -45,6 +49,11 @@ rule trim:
         trimmomatic PE -threads {threads} {input.sampleF} {input.sampleR} -baseout {params.baseout} ILLUMINACLIP:TruSeq3-PE-2.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 MINLEN:36 2>{params.log}
         """
 
+# Trimmomatic cuts adapters and indeces, filters out short reads (shorter than 36) and low quality reads.
+# It's fairly classic tool although there are other and newer tools
+# To do that I had to figure out which library prep kit was used 
+
+
 rule star_map:
     input:
         sampleF=rules.trim.output.trimmedF,
@@ -60,6 +69,9 @@ rule star_map:
         STAR --readFilesIn {input.sampleF} {input.sampleR} --outFileNamePrefix {params.prefix} --outSAMtype BAM SortedByCoordinate --genomeDir genome/indeces --genomeLoad LoadAndKeep --runThreadN {threads} --outFilterIntronMotifs RemoveNoncanonical --limitBAMsortRAM 50000000000 --outReadsUnmapped Fastx
         """
 
+# STAR is a very popular and fairly fast aligner. I used more or less default parameters, but kept the genome loaded and increased RAM for BAM files sort, because I did not have much restrictions.
+
+
 rule feature_counts:
     input:
         aligned_reads=rules.star_map.output.bam_file
@@ -73,6 +85,8 @@ rule feature_counts:
         """
         shellScripts/subread-2.0.2-Linux-x86_64/bin/featureCounts -p -O -T {threads} -s 2 -a genome/gencode.v29.annotation.gtf -o {params.out_file} {input.aligned_reads}
         """
+
+# I encountered featureCounts as an R tool. I usually analysed RNA-seq in R. And it's a popular well-cited tool.
 
 rule seq2hla:
     input:
@@ -88,6 +102,10 @@ rule seq2hla:
         """
         python shellScripts/seq2hla/seq2HLA_class2_only.py -1 {input.sampleF} -2 {input.sampleR} -r {params.out_prefix} -p {threads}
         """
+
+# The only tool with a publication I was able to find for HLA typing. I've commented out a part of a pipeline that types NOT HLA II. It was running for quite long and was not very interruption proof. So I decided to only keep
+what I needed.
+
 #rule kallisto_index:
 #    input:
 #        reference="genome/kallisto/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna"
@@ -100,6 +118,7 @@ rule seq2hla:
 #        shellScripts/kallisto/kallisto index -i {output.index} {input.reference} 
 #        """
     
+# I initially wanted to construct the index with PAR regions cut out for deconvolution analysis, but then found a ready-made index in a different place (it is not reachable via the link on developers github due to 404 response)
 
 rule kallisto_align:
     input:
@@ -116,4 +135,6 @@ rule kallisto_align:
         """
         shellScripts/kallisto/kallisto quant -i {input.index} -o {params.out_dir} --rf-stranded -t {threads} {input.sampleF} {input.sampleR}
         """
+
+# Pseudoaligning with kallisto to a custom index to match the Kassandra input format.
 

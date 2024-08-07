@@ -1,0 +1,3663 @@
+{
+    "report_data_sources": {
+        "Trimmomatic": {
+            "all_sections": {
+                "SRR14240730": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240730.log",
+                "SRR14240737": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240737.log",
+                "SRR14240739": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240739.log",
+                "SRR14240794": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240794.log",
+                "SRR14240745": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240745.log",
+                "SRR14240793": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240793.log",
+                "SRR14240742": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240742.log",
+                "SRR14240777": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240777.log",
+                "SRR14240770": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240770.log",
+                "SRR14240779": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240779.log",
+                "SRR14240768": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240768.log",
+                "SRR14240761": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240761.log",
+                "SRR14240766": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240766.log",
+                "SRR14240753": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240753.log",
+                "SRR14240782": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240782.log",
+                "SRR14240754": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240754.log",
+                "SRR14240785": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240785.log",
+                "SRR14240778": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240778.log",
+                "SRR14240771": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240771.log",
+                "SRR14240776": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240776.log",
+                "SRR14240792": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240792.log",
+                "SRR14240743": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240743.log",
+                "SRR14240738": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240738.log",
+                "SRR14240795": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240795.log",
+                "SRR14240744": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240744.log",
+                "SRR14240736": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240736.log",
+                "SRR14240731": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240731.log",
+                "SRR14240755": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240755.log",
+                "SRR14240784": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240784.log",
+                "SRR14240752": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240752.log",
+                "SRR14240783": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240783.log",
+                "SRR14240767": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240767.log",
+                "SRR14240760": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240760.log",
+                "SRR14240769": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240769.log",
+                "SRR14240758": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240758.log",
+                "SRR14240789": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240789.log",
+                "SRR14240751": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240751.log",
+                "SRR14240780": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240780.log",
+                "SRR14240756": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240756.log",
+                "SRR14240787": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240787.log",
+                "SRR14240763": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240763.log",
+                "SRR14240764": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240764.log",
+                "SRR14240775": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240775.log",
+                "SRR14240772": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240772.log",
+                "SRR14240796": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240796.log",
+                "SRR14240747": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240747.log",
+                "SRR14240791": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240791.log",
+                "SRR14240740": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240740.log",
+                "SRR14240732": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240732.log",
+                "SRR14240735": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240735.log",
+                "SRR14240798": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240798.log",
+                "SRR14240749": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240749.log",
+                "SRR14240765": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240765.log",
+                "SRR14240762": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240762.log",
+                "SRR14240757": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240757.log",
+                "SRR14240786": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240786.log",
+                "SRR14240750": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240750.log",
+                "SRR14240781": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240781.log",
+                "SRR14240759": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240759.log",
+                "SRR14240788": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240788.log",
+                "SRR14240734": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240734.log",
+                "SRR14240748": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240748.log",
+                "SRR14240733": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240733.log",
+                "SRR14240790": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240790.log",
+                "SRR14240741": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240741.log",
+                "SRR14240797": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240797.log",
+                "SRR14240746": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240746.log",
+                "SRR14240773": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240773.log",
+                "SRR14240774": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed/SRR14240774.log"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "SRR14240730": {
+                "input_read_pairs": 79148931.0,
+                "surviving": 77977945.0,
+                "surviving_pct": 98.52,
+                "forward_only_surviving": 476.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1151920.0,
+                "reverse_only_surviving_pct": 1.46,
+                "dropped": 18590.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240737": {
+                "input_read_pairs": 111134489.0,
+                "surviving": 108550962.0,
+                "surviving_pct": 97.68,
+                "forward_only_surviving": 488.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2559866.0,
+                "reverse_only_surviving_pct": 2.3,
+                "dropped": 23173.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240739": {
+                "input_read_pairs": 89701314.0,
+                "surviving": 88304622.0,
+                "surviving_pct": 98.44,
+                "forward_only_surviving": 299.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1384008.0,
+                "reverse_only_surviving_pct": 1.54,
+                "dropped": 12385.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240794": {
+                "input_read_pairs": 65081273.0,
+                "surviving": 60821945.0,
+                "surviving_pct": 93.46,
+                "forward_only_surviving": 503.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 4195717.0,
+                "reverse_only_surviving_pct": 6.45,
+                "dropped": 63108.0,
+                "dropped_pct": 0.1
+            },
+            "SRR14240745": {
+                "input_read_pairs": 77610063.0,
+                "surviving": 76390605.0,
+                "surviving_pct": 98.43,
+                "forward_only_surviving": 299.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1191429.0,
+                "reverse_only_surviving_pct": 1.54,
+                "dropped": 27730.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240793": {
+                "input_read_pairs": 160229732.0,
+                "surviving": 159215544.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 4498.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 987372.0,
+                "reverse_only_surviving_pct": 0.62,
+                "dropped": 22318.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240742": {
+                "input_read_pairs": 41556220.0,
+                "surviving": 41306042.0,
+                "surviving_pct": 99.4,
+                "forward_only_surviving": 81.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 248560.0,
+                "reverse_only_surviving_pct": 0.6,
+                "dropped": 1537.0,
+                "dropped_pct": 0.0
+            },
+            "SRR14240777": {
+                "input_read_pairs": 86093228.0,
+                "surviving": 85046288.0,
+                "surviving_pct": 98.78,
+                "forward_only_surviving": 2490.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1017645.0,
+                "reverse_only_surviving_pct": 1.18,
+                "dropped": 26805.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240770": {
+                "input_read_pairs": 85194821.0,
+                "surviving": 83473842.0,
+                "surviving_pct": 97.98,
+                "forward_only_surviving": 2203.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1668319.0,
+                "reverse_only_surviving_pct": 1.96,
+                "dropped": 50457.0,
+                "dropped_pct": 0.06
+            },
+            "SRR14240779": {
+                "input_read_pairs": 122269286.0,
+                "surviving": 120844106.0,
+                "surviving_pct": 98.83,
+                "forward_only_surviving": 3241.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1407175.0,
+                "reverse_only_surviving_pct": 1.15,
+                "dropped": 14764.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240768": {
+                "input_read_pairs": 59726873.0,
+                "surviving": 59353138.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 1605.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 361294.0,
+                "reverse_only_surviving_pct": 0.6,
+                "dropped": 10836.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240761": {
+                "input_read_pairs": 71003599.0,
+                "surviving": 67034112.0,
+                "surviving_pct": 94.41,
+                "forward_only_surviving": 1717.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3952317.0,
+                "reverse_only_surviving_pct": 5.57,
+                "dropped": 15453.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240766": {
+                "input_read_pairs": 87272354.0,
+                "surviving": 86810901.0,
+                "surviving_pct": 99.47,
+                "forward_only_surviving": 2349.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 442471.0,
+                "reverse_only_surviving_pct": 0.51,
+                "dropped": 16633.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240753": {
+                "input_read_pairs": 97383610.0,
+                "surviving": 96115601.0,
+                "surviving_pct": 98.7,
+                "forward_only_surviving": 2474.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1259445.0,
+                "reverse_only_surviving_pct": 1.29,
+                "dropped": 6090.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240782": {
+                "input_read_pairs": 79809665.0,
+                "surviving": 78684762.0,
+                "surviving_pct": 98.59,
+                "forward_only_surviving": 2078.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1090836.0,
+                "reverse_only_surviving_pct": 1.37,
+                "dropped": 31989.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240754": {
+                "input_read_pairs": 60898209.0,
+                "surviving": 57786361.0,
+                "surviving_pct": 94.89,
+                "forward_only_surviving": 288.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3087988.0,
+                "reverse_only_surviving_pct": 5.07,
+                "dropped": 23572.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240785": {
+                "input_read_pairs": 76696750.0,
+                "surviving": 70221939.0,
+                "surviving_pct": 91.56,
+                "forward_only_surviving": 1288.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 6352666.0,
+                "reverse_only_surviving_pct": 8.28,
+                "dropped": 120857.0,
+                "dropped_pct": 0.16
+            },
+            "SRR14240778": {
+                "input_read_pairs": 90319169.0,
+                "surviving": 89112119.0,
+                "surviving_pct": 98.66,
+                "forward_only_surviving": 2403.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1187553.0,
+                "reverse_only_surviving_pct": 1.31,
+                "dropped": 17094.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240771": {
+                "input_read_pairs": 66771440.0,
+                "surviving": 64712396.0,
+                "surviving_pct": 96.92,
+                "forward_only_surviving": 1946.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2049096.0,
+                "reverse_only_surviving_pct": 3.07,
+                "dropped": 8002.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240776": {
+                "input_read_pairs": 97246996.0,
+                "surviving": 96713583.0,
+                "surviving_pct": 99.45,
+                "forward_only_surviving": 2706.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 522395.0,
+                "reverse_only_surviving_pct": 0.54,
+                "dropped": 8312.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240792": {
+                "input_read_pairs": 78029729.0,
+                "surviving": 67987553.0,
+                "surviving_pct": 87.13,
+                "forward_only_surviving": 4496.0,
+                "forward_only_surviving_pct": 0.01,
+                "reverse_only_surviving": 9505105.0,
+                "reverse_only_surviving_pct": 12.18,
+                "dropped": 532575.0,
+                "dropped_pct": 0.68
+            },
+            "SRR14240743": {
+                "input_read_pairs": 66713043.0,
+                "surviving": 66252593.0,
+                "surviving_pct": 99.31,
+                "forward_only_surviving": 248.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 449293.0,
+                "reverse_only_surviving_pct": 0.67,
+                "dropped": 10909.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240738": {
+                "input_read_pairs": 113341448.0,
+                "surviving": 110649389.0,
+                "surviving_pct": 97.62,
+                "forward_only_surviving": 258.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2683050.0,
+                "reverse_only_surviving_pct": 2.37,
+                "dropped": 8751.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240795": {
+                "input_read_pairs": 100314395.0,
+                "surviving": 99827756.0,
+                "surviving_pct": 99.51,
+                "forward_only_surviving": 2383.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 462781.0,
+                "reverse_only_surviving_pct": 0.46,
+                "dropped": 21475.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240744": {
+                "input_read_pairs": 114240276.0,
+                "surviving": 112626504.0,
+                "surviving_pct": 98.59,
+                "forward_only_surviving": 441.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1596999.0,
+                "reverse_only_surviving_pct": 1.4,
+                "dropped": 16332.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240736": {
+                "input_read_pairs": 95088101.0,
+                "surviving": 92526231.0,
+                "surviving_pct": 97.31,
+                "forward_only_surviving": 448.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2539791.0,
+                "reverse_only_surviving_pct": 2.67,
+                "dropped": 21631.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240731": {
+                "input_read_pairs": 97203845.0,
+                "surviving": 96577448.0,
+                "surviving_pct": 99.36,
+                "forward_only_surviving": 386.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 610765.0,
+                "reverse_only_surviving_pct": 0.63,
+                "dropped": 15246.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240755": {
+                "input_read_pairs": 85657772.0,
+                "surviving": 83874704.0,
+                "surviving_pct": 97.92,
+                "forward_only_surviving": 2364.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1754510.0,
+                "reverse_only_surviving_pct": 2.05,
+                "dropped": 26194.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240784": {
+                "input_read_pairs": 94447113.0,
+                "surviving": 93162343.0,
+                "surviving_pct": 98.64,
+                "forward_only_surviving": 2900.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1270059.0,
+                "reverse_only_surviving_pct": 1.34,
+                "dropped": 11811.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240752": {
+                "input_read_pairs": 69602313.0,
+                "surviving": 68886111.0,
+                "surviving_pct": 98.97,
+                "forward_only_surviving": 323.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 708373.0,
+                "reverse_only_surviving_pct": 1.02,
+                "dropped": 7506.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240783": {
+                "input_read_pairs": 82841182.0,
+                "surviving": 82320998.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 2142.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 509086.0,
+                "reverse_only_surviving_pct": 0.61,
+                "dropped": 8956.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240767": {
+                "input_read_pairs": 85351805.0,
+                "surviving": 84952821.0,
+                "surviving_pct": 99.53,
+                "forward_only_surviving": 2117.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 392676.0,
+                "reverse_only_surviving_pct": 0.46,
+                "dropped": 4191.0,
+                "dropped_pct": 0.0
+            },
+            "SRR14240760": {
+                "input_read_pairs": 102286322.0,
+                "surviving": 101771012.0,
+                "surviving_pct": 99.5,
+                "forward_only_surviving": 2625.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 502001.0,
+                "reverse_only_surviving_pct": 0.49,
+                "dropped": 10684.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240769": {
+                "input_read_pairs": 119288369.0,
+                "surviving": 117409865.0,
+                "surviving_pct": 98.43,
+                "forward_only_surviving": 2893.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1856887.0,
+                "reverse_only_surviving_pct": 1.56,
+                "dropped": 18724.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240758": {
+                "input_read_pairs": 55609493.0,
+                "surviving": 55300061.0,
+                "surviving_pct": 99.44,
+                "forward_only_surviving": 1474.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 303731.0,
+                "reverse_only_surviving_pct": 0.55,
+                "dropped": 4227.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240789": {
+                "input_read_pairs": 90804491.0,
+                "surviving": 86909879.0,
+                "surviving_pct": 95.71,
+                "forward_only_surviving": 2731.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3875265.0,
+                "reverse_only_surviving_pct": 4.27,
+                "dropped": 16616.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240751": {
+                "input_read_pairs": 75653817.0,
+                "surviving": 71519196.0,
+                "surviving_pct": 94.53,
+                "forward_only_surviving": 660.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3942710.0,
+                "reverse_only_surviving_pct": 5.21,
+                "dropped": 191251.0,
+                "dropped_pct": 0.25
+            },
+            "SRR14240780": {
+                "input_read_pairs": 115141880.0,
+                "surviving": 112774863.0,
+                "surviving_pct": 97.94,
+                "forward_only_surviving": 3170.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2336507.0,
+                "reverse_only_surviving_pct": 2.03,
+                "dropped": 27340.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240756": {
+                "input_read_pairs": 56406911.0,
+                "surviving": 54199671.0,
+                "surviving_pct": 96.09,
+                "forward_only_surviving": 319.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2188587.0,
+                "reverse_only_surviving_pct": 3.88,
+                "dropped": 18334.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240787": {
+                "input_read_pairs": 118094700.0,
+                "surviving": 117300909.0,
+                "surviving_pct": 99.33,
+                "forward_only_surviving": 3056.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 781290.0,
+                "reverse_only_surviving_pct": 0.66,
+                "dropped": 9445.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240763": {
+                "input_read_pairs": 68709406.0,
+                "surviving": 67485888.0,
+                "surviving_pct": 98.22,
+                "forward_only_surviving": 1946.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1212678.0,
+                "reverse_only_surviving_pct": 1.76,
+                "dropped": 8894.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240764": {
+                "input_read_pairs": 87759056.0,
+                "surviving": 85919422.0,
+                "surviving_pct": 97.9,
+                "forward_only_surviving": 2228.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1817923.0,
+                "reverse_only_surviving_pct": 2.07,
+                "dropped": 19483.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240775": {
+                "input_read_pairs": 126237864.0,
+                "surviving": 123835577.0,
+                "surviving_pct": 98.1,
+                "forward_only_surviving": 3392.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2383071.0,
+                "reverse_only_surviving_pct": 1.89,
+                "dropped": 15824.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240772": {
+                "input_read_pairs": 86526700.0,
+                "surviving": 84761456.0,
+                "surviving_pct": 97.96,
+                "forward_only_surviving": 2218.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1739435.0,
+                "reverse_only_surviving_pct": 2.01,
+                "dropped": 23591.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240796": {
+                "input_read_pairs": 88092746.0,
+                "surviving": 87133604.0,
+                "surviving_pct": 98.91,
+                "forward_only_surviving": 2522.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 941616.0,
+                "reverse_only_surviving_pct": 1.07,
+                "dropped": 15004.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240747": {
+                "input_read_pairs": 73494716.0,
+                "surviving": 72691146.0,
+                "surviving_pct": 98.91,
+                "forward_only_surviving": 217.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 792208.0,
+                "reverse_only_surviving_pct": 1.08,
+                "dropped": 11145.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240791": {
+                "input_read_pairs": 100740685.0,
+                "surviving": 98924922.0,
+                "surviving_pct": 98.2,
+                "forward_only_surviving": 2676.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1797825.0,
+                "reverse_only_surviving_pct": 1.78,
+                "dropped": 15262.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240740": {
+                "input_read_pairs": 100076785.0,
+                "surviving": 98747873.0,
+                "surviving_pct": 98.67,
+                "forward_only_surviving": 568.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1300980.0,
+                "reverse_only_surviving_pct": 1.3,
+                "dropped": 27364.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240732": {
+                "input_read_pairs": 80653290.0,
+                "surviving": 79694758.0,
+                "surviving_pct": 98.81,
+                "forward_only_surviving": 234.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 948007.0,
+                "reverse_only_surviving_pct": 1.18,
+                "dropped": 10291.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240735": {
+                "input_read_pairs": 141622218.0,
+                "surviving": 140202759.0,
+                "surviving_pct": 99.0,
+                "forward_only_surviving": 333.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1409702.0,
+                "reverse_only_surviving_pct": 1.0,
+                "dropped": 9424.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240798": {
+                "input_read_pairs": 89673932.0,
+                "surviving": 88533280.0,
+                "surviving_pct": 98.73,
+                "forward_only_surviving": 536.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1105190.0,
+                "reverse_only_surviving_pct": 1.23,
+                "dropped": 34926.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240749": {
+                "input_read_pairs": 97276313.0,
+                "surviving": 96346768.0,
+                "surviving_pct": 99.04,
+                "forward_only_surviving": 233.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 916492.0,
+                "reverse_only_surviving_pct": 0.94,
+                "dropped": 12820.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240765": {
+                "input_read_pairs": 125066483.0,
+                "surviving": 123282278.0,
+                "surviving_pct": 98.57,
+                "forward_only_surviving": 3265.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1765300.0,
+                "reverse_only_surviving_pct": 1.41,
+                "dropped": 15640.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240762": {
+                "input_read_pairs": 154183677.0,
+                "surviving": 153132353.0,
+                "surviving_pct": 99.32,
+                "forward_only_surviving": 4026.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1032521.0,
+                "reverse_only_surviving_pct": 0.67,
+                "dropped": 14777.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240757": {
+                "input_read_pairs": 79835228.0,
+                "surviving": 76366126.0,
+                "surviving_pct": 95.65,
+                "forward_only_surviving": 2237.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3434160.0,
+                "reverse_only_surviving_pct": 4.3,
+                "dropped": 32705.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240786": {
+                "input_read_pairs": 103953636.0,
+                "surviving": 103352548.0,
+                "surviving_pct": 99.42,
+                "forward_only_surviving": 2615.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 589130.0,
+                "reverse_only_surviving_pct": 0.57,
+                "dropped": 9343.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240750": {
+                "input_read_pairs": 86240410.0,
+                "surviving": 84725564.0,
+                "surviving_pct": 98.24,
+                "forward_only_surviving": 289.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1471509.0,
+                "reverse_only_surviving_pct": 1.71,
+                "dropped": 43048.0,
+                "dropped_pct": 0.05
+            },
+            "SRR14240781": {
+                "input_read_pairs": 76629266.0,
+                "surviving": 74232553.0,
+                "surviving_pct": 96.87,
+                "forward_only_surviving": 2089.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2369749.0,
+                "reverse_only_surviving_pct": 3.09,
+                "dropped": 24875.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240759": {
+                "input_read_pairs": 45162528.0,
+                "surviving": 44600090.0,
+                "surviving_pct": 98.75,
+                "forward_only_surviving": 1220.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 554290.0,
+                "reverse_only_surviving_pct": 1.23,
+                "dropped": 6928.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240788": {
+                "input_read_pairs": 58652379.0,
+                "surviving": 57368395.0,
+                "surviving_pct": 97.81,
+                "forward_only_surviving": 1541.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1273402.0,
+                "reverse_only_surviving_pct": 2.17,
+                "dropped": 9041.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240734": {
+                "input_read_pairs": 132562076.0,
+                "surviving": 130806061.0,
+                "surviving_pct": 98.68,
+                "forward_only_surviving": 370.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1741042.0,
+                "reverse_only_surviving_pct": 1.31,
+                "dropped": 14603.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240748": {
+                "input_read_pairs": 95814948.0,
+                "surviving": 93445925.0,
+                "surviving_pct": 97.53,
+                "forward_only_surviving": 273.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2360203.0,
+                "reverse_only_surviving_pct": 2.46,
+                "dropped": 8547.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240733": {
+                "input_read_pairs": 66446736.0,
+                "surviving": 65695367.0,
+                "surviving_pct": 98.87,
+                "forward_only_surviving": 134.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 745758.0,
+                "reverse_only_surviving_pct": 1.12,
+                "dropped": 5477.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240790": {
+                "input_read_pairs": 73956527.0,
+                "surviving": 72417672.0,
+                "surviving_pct": 97.92,
+                "forward_only_surviving": 1811.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1527025.0,
+                "reverse_only_surviving_pct": 2.06,
+                "dropped": 10019.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240741": {
+                "input_read_pairs": 94577784.0,
+                "surviving": 92696131.0,
+                "surviving_pct": 98.01,
+                "forward_only_surviving": 218.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1859094.0,
+                "reverse_only_surviving_pct": 1.97,
+                "dropped": 22341.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240797": {
+                "input_read_pairs": 141093977.0,
+                "surviving": 139380513.0,
+                "surviving_pct": 98.79,
+                "forward_only_surviving": 3764.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1697554.0,
+                "reverse_only_surviving_pct": 1.2,
+                "dropped": 12146.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240746": {
+                "input_read_pairs": 98465977.0,
+                "surviving": 97650514.0,
+                "surviving_pct": 99.17,
+                "forward_only_surviving": 459.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 777497.0,
+                "reverse_only_surviving_pct": 0.79,
+                "dropped": 37507.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240773": {
+                "input_read_pairs": 88237700.0,
+                "surviving": 87013640.0,
+                "surviving_pct": 98.61,
+                "forward_only_surviving": 2369.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1212354.0,
+                "reverse_only_surviving_pct": 1.37,
+                "dropped": 9337.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240774": {
+                "input_read_pairs": 27417898.0,
+                "surviving": 27040104.0,
+                "surviving_pct": 98.62,
+                "forward_only_surviving": 747.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 371614.0,
+                "reverse_only_surviving_pct": 1.36,
+                "dropped": 5433.0,
+                "dropped_pct": 0.02
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "dropped_pct": {
+                "title": "% Dropped",
+                "description": "% Dropped reads",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "OrRd",
+                "namespace": "Trimmomatic",
+                "rid": "mqc_generalstats_trimmomatic_dropped_pct",
+                "format": null,
+                "color": "55,126,184",
+                "hidden": false,
+                "ceiling": null,
+                "floor": null,
+                "minrange": null,
+                "shared_key": null,
+                "modify": null,
+                "placement": 1000.0,
+                "dmax": 100.0,
+                "dmin": 0.0
+            }
+        }
+    ],
+    "report_multiqc_command": "/wrk-vakka/users/nikiarte/rnaseq_analysis/rnaseq_task_environment/bin/multiqc .",
+    "report_plot_data": {
+        "trimmomatic_plot": {
+            "id": "trimmomatic_plot",
+            "plot_type": "bar_graph",
+            "layout": {
+                "autosize": true,
+                "colorway": [
+                    "#7cb5ec",
+                    "#434348",
+                    "#90ed7d",
+                    "#f7a35c",
+                    "#8085e9",
+                    "#f15c80",
+                    "#e4d354",
+                    "#2b908f",
+                    "#f45b5b",
+                    "#91e8e1"
+                ],
+                "font": {
+                    "family": "'Lucida Grande', 'Open Sans', verdana, arial, sans-serif"
+                },
+                "height": 800,
+                "hoverlabel": {
+                    "namelength": -1,
+                    "bgcolor": "rgba(255, 255, 255, 0.8)",
+                    "font": {
+                        "color": "black"
+                    }
+                },
+                "margin": {
+                    "b": 65,
+                    "l": 60,
+                    "pad": 5,
+                    "r": 15,
+                    "t": 50
+                },
+                "modebar": {
+                    "activecolor": "rgba(0, 0, 0, 1)",
+                    "bgcolor": "rgba(0, 0, 0, 0)",
+                    "color": "rgba(0, 0, 0, 0.5)"
+                },
+                "paper_bgcolor": "white",
+                "plot_bgcolor": "white",
+                "showlegend": true,
+                "title": {
+                    "font": {
+                        "size": 20
+                    },
+                    "text": "Trimmomatic: Surviving Reads",
+                    "x": 0.5,
+                    "xanchor": "center"
+                },
+                "xaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.05)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,1)",
+                        "size": 10
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.05)"
+                },
+                "yaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.05)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,1)",
+                        "size": 10
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.05)",
+                    "showgrid": false,
+                    "categoryorder": "trace",
+                    "type": "category"
+                },
+                "barmode": "relative",
+                "bargroupgap": 0,
+                "bargap": 0.2,
+                "legend": {
+                    "tracegroupgap": 0,
+                    "traceorder": "normal"
+                },
+                "hovermode": "y unified"
+            },
+            "datasets": [
+                {
+                    "plot_id": "trimmomatic_plot",
+                    "label": "1",
+                    "uid": "trimmomatic_plot",
+                    "dconfig": {},
+                    "layout": {
+                        "title": {
+                            "text": "Trimmomatic: Surviving Reads"
+                        },
+                        "xaxis": {
+                            "title": {
+                                "text": "# Reads"
+                            },
+                            "hoverformat": ",.0f",
+                            "ticksuffix": "",
+                            "autorangeoptions": {
+                                "minallowed": 0,
+                                "maxallowed": 160229732
+                            }
+                        },
+                        "yaxis": {
+                            "title": null,
+                            "hoverformat": null,
+                            "ticksuffix": ""
+                        },
+                        "showlegend": true
+                    },
+                    "trace_params": {
+                        "hovertemplate": "<b></b>%{meta}: <b>%{x}</b><extra></extra>",
+                        "orientation": "h",
+                        "marker": {
+                            "line": {
+                                "width": 0
+                            }
+                        },
+                        "textposition": "inside",
+                        "insidetextanchor": "start"
+                    },
+                    "pct_range": {
+                        "xaxis": {
+                            "min": 0,
+                            "max": 100
+                        },
+                        "yaxis": {
+                            "min": 0,
+                            "max": 100
+                        }
+                    },
+                    "cats": [
+                        {
+                            "name": "Surviving Reads",
+                            "data": [
+                                88533280,
+                                139380513,
+                                87133604,
+                                99827756,
+                                60821945,
+                                159215544,
+                                67987553,
+                                98924922,
+                                72417672,
+                                86909879,
+                                57368395,
+                                117300909,
+                                103352548,
+                                70221939,
+                                93162343,
+                                82320998,
+                                78684762,
+                                74232553,
+                                112774863,
+                                120844106,
+                                89112119,
+                                85046288,
+                                96713583,
+                                123835577,
+                                27040104,
+                                87013640,
+                                84761456,
+                                64712396,
+                                83473842,
+                                117409865,
+                                59353138,
+                                84952821,
+                                86810901,
+                                123282278,
+                                85919422,
+                                67485888,
+                                153132353,
+                                67034112,
+                                101771012,
+                                44600090,
+                                55300061,
+                                76366126,
+                                54199671,
+                                83874704,
+                                57786361,
+                                96115601,
+                                68886111,
+                                71519196,
+                                84725564,
+                                96346768,
+                                93445925,
+                                72691146,
+                                97650514,
+                                76390605,
+                                112626504,
+                                66252593,
+                                41306042,
+                                92696131,
+                                98747873,
+                                88304622,
+                                110649389,
+                                108550962,
+                                92526231,
+                                140202759,
+                                130806061,
+                                65695367,
+                                79694758,
+                                96577448,
+                                77977945
+                            ],
+                            "color": "67,123,177",
+                            "data_pct": [
+                                98.72800046283238,
+                                98.78558671572493,
+                                98.91121341591509,
+                                99.51488617361447,
+                                93.45537079460631,
+                                99.36704131789973,
+                                87.13032054744161,
+                                98.1975872012385,
+                                97.91924382820194,
+                                95.7109918715364,
+                                97.81085776588874,
+                                99.32783520344266,
+                                99.42177299118234,
+                                91.55790695172873,
+                                98.6396937299714,
+                                99.3720707654799,
+                                98.59051782763405,
+                                96.87232682093027,
+                                97.94426059397327,
+                                98.83439247367487,
+                                98.66357273504144,
+                                98.78394616589355,
+                                99.45148639861327,
+                                98.09701548815814,
+                                98.62208984802555,
+                                98.61276982514276,
+                                97.95988521462161,
+                                96.9162803737646,
+                                97.9799488046345,
+                                98.4252412739418,
+                                99.37425989135578,
+                                99.53254181326335,
+                                99.47124950932343,
+                                98.57339475996937,
+                                97.90376733313995,
+                                98.21928601740495,
+                                99.31813534321145,
+                                94.4094566248677,
+                                99.49620830046074,
+                                98.75463570152672,
+                                99.4435626305746,
+                                95.65467264651639,
+                                96.08693339013016,
+                                97.91838153343517,
+                                94.89008289225714,
+                                98.6979236033661,
+                                98.97100833416269,
+                                94.53481507747323,
+                                98.2434615048792,
+                                99.04442821553074,
+                                97.52750165871822,
+                                98.90662887927888,
+                                99.17183272350002,
+                                98.42873726310467,
+                                98.58738786660494,
+                                99.30980513060992,
+                                99.39797700560831,
+                                98.01047040814575,
+                                98.67210762216232,
+                                98.44295257480844,
+                                97.62482388613917,
+                                97.67531481608738,
+                                97.3057932874272,
+                                98.99771446878484,
+                                98.67532626752164,
+                                98.86921608910933,
+                                98.81154011200287,
+                                99.35558413352888,
+                                98.52052834421731
+                            ]
+                        },
+                        {
+                            "name": "Forward Only Surviving",
+                            "data": [
+                                536,
+                                3764,
+                                2522,
+                                2383,
+                                503,
+                                4498,
+                                4496,
+                                2676,
+                                1811,
+                                2731,
+                                1541,
+                                3056,
+                                2615,
+                                1288,
+                                2900,
+                                2142,
+                                2078,
+                                2089,
+                                3170,
+                                3241,
+                                2403,
+                                2490,
+                                2706,
+                                3392,
+                                747,
+                                2369,
+                                2218,
+                                1946,
+                                2203,
+                                2893,
+                                1605,
+                                2117,
+                                2349,
+                                3265,
+                                2228,
+                                1946,
+                                4026,
+                                1717,
+                                2625,
+                                1220,
+                                1474,
+                                2237,
+                                319,
+                                2364,
+                                288,
+                                2474,
+                                323,
+                                660,
+                                289,
+                                233,
+                                273,
+                                217,
+                                459,
+                                299,
+                                441,
+                                248,
+                                81,
+                                218,
+                                568,
+                                299,
+                                258,
+                                488,
+                                448,
+                                333,
+                                370,
+                                134,
+                                234,
+                                386,
+                                476
+                            ],
+                            "color": "230,52,145",
+                            "data_pct": [
+                                0.0005977210857665971,
+                                0.002667725497595124,
+                                0.0028628917981510077,
+                                0.002375531447904361,
+                                0.0007728797806398162,
+                                0.002807219324313667,
+                                0.005761906465162784,
+                                0.0026563249991798247,
+                                0.002448735863435015,
+                                0.0030075604960992514,
+                                0.0026273444083146228,
+                                0.0025877537264585118,
+                                0.0025155445260231207,
+                                0.0016793410411784072,
+                                0.003070501477371786,
+                                0.0025856704941752276,
+                                0.002603694677831313,
+                                0.0027261125011950396,
+                                0.002753125100962395,
+                                0.0026507065723766474,
+                                0.0026605647799970347,
+                                0.002892213543206906,
+                                0.0027826052333791373,
+                                0.002686990964929508,
+                                0.002724497698547132,
+                                0.0026847934612982886,
+                                0.002563370612770393,
+                                0.002914419698002619,
+                                0.0025858379349139077,
+                                0.002425215487689332,
+                                0.002687232596288776,
+                                0.002480322472383566,
+                                0.0026915740120863475,
+                                0.002610611509719994,
+                                0.0025387693322498823,
+                                0.0028322177606949477,
+                                0.0026111713498699345,
+                                0.0024181872809010707,
+                                0.0025663255347083457,
+                                0.0027013545388778946,
+                                0.002650626575574066,
+                                0.0028020211829294208,
+                                0.0005655335389665284,
+                                0.002759819622672418,
+                                0.0004729203119914413,
+                                0.0025404685655009093,
+                                0.0004640650376087358,
+                                0.0008723948455898794,
+                                0.000335109724084104,
+                                0.00023952388080333598,
+                                0.00028492422706319267,
+                                0.00029525932177219377,
+                                0.0004661508614290193,
+                                0.00038525931875612576,
+                                0.000386028479132876,
+                                0.00037174139995382915,
+                                0.00019491666951421474,
+                                0.00023049810513640285,
+                                0.0005675641958322302,
+                                0.00033332845046171787,
+                                0.0002276307604610804,
+                                0.0004391076113194708,
+                                0.0004711420201776876,
+                                0.00023513259762673676,
+                                0.0002791145183936317,
+                                0.000201665285710949,
+                                0.0002901307559803202,
+                                0.0003971036330918803,
+                                0.0006013978887472277
+                            ]
+                        },
+                        {
+                            "name": "Reverse Only Surviving",
+                            "data": [
+                                1105190,
+                                1697554,
+                                941616,
+                                462781,
+                                4195717,
+                                987372,
+                                9505105,
+                                1797825,
+                                1527025,
+                                3875265,
+                                1273402,
+                                781290,
+                                589130,
+                                6352666,
+                                1270059,
+                                509086,
+                                1090836,
+                                2369749,
+                                2336507,
+                                1407175,
+                                1187553,
+                                1017645,
+                                522395,
+                                2383071,
+                                371614,
+                                1212354,
+                                1739435,
+                                2049096,
+                                1668319,
+                                1856887,
+                                361294,
+                                392676,
+                                442471,
+                                1765300,
+                                1817923,
+                                1212678,
+                                1032521,
+                                3952317,
+                                502001,
+                                554290,
+                                303731,
+                                3434160,
+                                2188587,
+                                1754510,
+                                3087988,
+                                1259445,
+                                708373,
+                                3942710,
+                                1471509,
+                                916492,
+                                2360203,
+                                792208,
+                                777497,
+                                1191429,
+                                1596999,
+                                449293,
+                                248560,
+                                1859094,
+                                1300980,
+                                1384008,
+                                2683050,
+                                2559866,
+                                2539791,
+                                1409702,
+                                1741042,
+                                745758,
+                                948007,
+                                610765,
+                                1151920
+                            ],
+                            "color": "177,8,76",
+                            "data_pct": [
+                                1.2324540424969879,
+                                1.2031371119406464,
+                                1.068891642905535,
+                                0.46133059966119516,
+                                6.446888339138665,
+                                0.6162227120245074,
+                                12.181389224099446,
+                                1.7846066859680376,
+                                2.0647602881622604,
+                                4.267701913554033,
+                                2.1711003401925093,
+                                0.6615792241311422,
+                                0.5667238036772471,
+                                8.282835974144929,
+                                1.3447303571894251,
+                                0.6145325159653081,
+                                1.366796866018671,
+                                3.0924855785516727,
+                                2.0292416625471112,
+                                1.150881833071308,
+                                1.3148404853016307,
+                                1.1820267675408802,
+                                0.5371836884298204,
+                                1.8877624545358278,
+                                1.3553701308539408,
+                                1.3739637365887825,
+                                2.010286998117344,
+                                3.0688210408521965,
+                                1.9582399263448185,
+                                1.556637093428614,
+                                0.6049102888744904,
+                                0.4600675990390595,
+                                0.507000189315393,
+                                1.4114892796657599,
+                                2.071493339673116,
+                                1.7649373944522238,
+                                0.6696694618328501,
+                                5.566361502323284,
+                                0.49078018466633305,
+                                1.2273227929136297,
+                                0.5461855226768566,
+                                4.301559707451452,
+                                3.8799979669157914,
+                                2.048278818178927,
+                                5.070736973561899,
+                                1.2932823090045646,
+                                1.0177434764272848,
+                                5.211514972205567,
+                                1.706287110648013,
+                                0.9421533071468282,
+                                2.4632930970228153,
+                                1.0779115059101663,
+                                0.7896097958790375,
+                                1.5351475748705423,
+                                1.397929920967628,
+                                0.6734710032639345,
+                                0.5981294737586816,
+                                1.9656772672956686,
+                                1.299981808967984,
+                                1.5429071641024121,
+                                2.367227565329852,
+                                2.303394763438378,
+                                2.670987193234619,
+                                0.9953960754943126,
+                                1.3133786468461763,
+                                1.1223395532927305,
+                                1.1754102033531428,
+                                0.6283341980967934,
+                                1.4553828907682909
+                            ]
+                        },
+                        {
+                            "name": "Dropped",
+                            "data": [
+                                34926,
+                                12146,
+                                15004,
+                                21475,
+                                63108,
+                                22318,
+                                532575,
+                                15262,
+                                10019,
+                                16616,
+                                9041,
+                                9445,
+                                9343,
+                                120857,
+                                11811,
+                                8956,
+                                31989,
+                                24875,
+                                27340,
+                                14764,
+                                17094,
+                                26805,
+                                8312,
+                                15824,
+                                5433,
+                                9337,
+                                23591,
+                                8002,
+                                50457,
+                                18724,
+                                10836,
+                                4191,
+                                16633,
+                                15640,
+                                19483,
+                                8894,
+                                14777,
+                                15453,
+                                10684,
+                                6928,
+                                4227,
+                                32705,
+                                18334,
+                                26194,
+                                23572,
+                                6090,
+                                7506,
+                                191251,
+                                43048,
+                                12820,
+                                8547,
+                                11145,
+                                37507,
+                                27730,
+                                16332,
+                                10909,
+                                1537,
+                                22341,
+                                27364,
+                                12385,
+                                8751,
+                                23173,
+                                21631,
+                                9424,
+                                14603,
+                                5477,
+                                10291,
+                                15246,
+                                18590
+                            ],
+                            "color": "127,0,0",
+                            "data_pct": [
+                                0.03894777358485853,
+                                0.008608446836819973,
+                                0.01703204938122828,
+                                0.02140769527643565,
+                                0.09696798647438873,
+                                0.013928750751452296,
+                                0.6825283219937878,
+                                0.015149787794275968,
+                                0.013547147772366324,
+                                0.018298654413469485,
+                                0.015414549510429917,
+                                0.00799781869973843,
+                                0.008987660614391593,
+                                0.15757773308516984,
+                                0.012505411361806261,
+                                0.010811048060613138,
+                                0.04008161166946384,
+                                0.032461488016862904,
+                                0.023744618378647282,
+                                0.01207498668144672,
+                                0.018926214876932714,
+                                0.03113485302235386,
+                                0.008547307723520838,
+                                0.012535066341109829,
+                                0.019815523421963275,
+                                0.010581644807151592,
+                                0.027264416648271575,
+                                0.011984165685209125,
+                                0.05922543108576987,
+                                0.015696417141892516,
+                                0.01814258717344871,
+                                0.004910265225205255,
+                                0.01905872734909843,
+                                0.01250534885513651,
+                                0.022200557854678837,
+                                0.012944370382127885,
+                                0.009584023605819182,
+                                0.021763685528109637,
+                                0.010445189338218653,
+                                0.015340151020775454,
+                                0.007601220172965792,
+                                0.04096562484922069,
+                                0.03250310941508568,
+                                0.030579828763232363,
+                                0.03870721386896616,
+                                0.006253619063823984,
+                                0.010784124372418486,
+                                0.25279755547562127,
+                                0.0499162747486938,
+                                0.01317895344162561,
+                                0.008920320031901494,
+                                0.015164355489175576,
+                                0.03809132975951683,
+                                0.0357299027060447,
+                                0.014296183948295084,
+                                0.016352124726194846,
+                                0.0036986039634981237,
+                                0.023621826453451268,
+                                0.027343004673861176,
+                                0.01380693263869022,
+                                0.007720917770522925,
+                                0.020851312862922328,
+                                0.02274837731799902,
+                                0.0066543231232263295,
+                                0.01101597111378974,
+                                0.008242692312230356,
+                                0.012759553888006304,
+                                0.01568456474124043,
+                                0.023487367125653285
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "SRR14240798",
+                        "SRR14240797",
+                        "SRR14240796",
+                        "SRR14240795",
+                        "SRR14240794",
+                        "SRR14240793",
+                        "SRR14240792",
+                        "SRR14240791",
+                        "SRR14240790",
+                        "SRR14240789",
+                        "SRR14240788",
+                        "SRR14240787",
+                        "SRR14240786",
+                        "SRR14240785",
+                        "SRR14240784",
+                        "SRR14240783",
+                        "SRR14240782",
+                        "SRR14240781",
+                        "SRR14240780",
+                        "SRR14240779",
+                        "SRR14240778",
+                        "SRR14240777",
+                        "SRR14240776",
+                        "SRR14240775",
+                        "SRR14240774",
+                        "SRR14240773",
+                        "SRR14240772",
+                        "SRR14240771",
+                        "SRR14240770",
+                        "SRR14240769",
+                        "SRR14240768",
+                        "SRR14240767",
+                        "SRR14240766",
+                        "SRR14240765",
+                        "SRR14240764",
+                        "SRR14240763",
+                        "SRR14240762",
+                        "SRR14240761",
+                        "SRR14240760",
+                        "SRR14240759",
+                        "SRR14240758",
+                        "SRR14240757",
+                        "SRR14240756",
+                        "SRR14240755",
+                        "SRR14240754",
+                        "SRR14240753",
+                        "SRR14240752",
+                        "SRR14240751",
+                        "SRR14240750",
+                        "SRR14240749",
+                        "SRR14240748",
+                        "SRR14240747",
+                        "SRR14240746",
+                        "SRR14240745",
+                        "SRR14240744",
+                        "SRR14240743",
+                        "SRR14240742",
+                        "SRR14240741",
+                        "SRR14240740",
+                        "SRR14240739",
+                        "SRR14240738",
+                        "SRR14240737",
+                        "SRR14240736",
+                        "SRR14240735",
+                        "SRR14240734",
+                        "SRR14240733",
+                        "SRR14240732",
+                        "SRR14240731",
+                        "SRR14240730"
+                    ]
+                }
+            ],
+            "pconfig": {
+                "id": "trimmomatic_plot",
+                "table_title": null,
+                "title": "Trimmomatic: Surviving Reads",
+                "height": null,
+                "width": null,
+                "square": false,
+                "logswitch": false,
+                "logswitch_active": false,
+                "logswitch_label": "Log10",
+                "cpswitch": true,
+                "cpswitch_c_active": true,
+                "cpswitch_counts_label": "Number of Reads",
+                "cpswitch_percent_label": "Percentages",
+                "xLog": null,
+                "yLog": null,
+                "xlog": false,
+                "ylog": false,
+                "data_labels": [],
+                "xTitle": null,
+                "yTitle": null,
+                "xlab": null,
+                "ylab": "# Reads",
+                "xsuffix": null,
+                "ysuffix": null,
+                "tt_suffix": null,
+                "xLabFormat": null,
+                "yLabFormat": null,
+                "xLabelFormat": null,
+                "yLabelFormat": null,
+                "xlab_format": null,
+                "ylab_format": null,
+                "tt_label": null,
+                "xDecimals": null,
+                "yDecimals": null,
+                "decimalPlaces": null,
+                "x_decimals": null,
+                "y_decimals": null,
+                "tt_decimals": null,
+                "xmin": null,
+                "xmax": null,
+                "ymin": null,
+                "ymax": null,
+                "xFloor": null,
+                "xCeiling": null,
+                "yFloor": null,
+                "yCeiling": null,
+                "x_clipmin": null,
+                "x_clipmax": null,
+                "y_clipmin": null,
+                "y_clipmax": null,
+                "save_data_file": true,
+                "showlegend": null
+            },
+            "add_log_tab": false,
+            "add_pct_tab": true,
+            "l_active": false,
+            "p_active": false,
+            "pct_axis_update": {
+                "ticksuffix": "%",
+                "hoverformat": ".1f"
+            },
+            "axis_controlled_by_switches": [
+                "xaxis"
+            ],
+            "square": false,
+            "flat": false
+        },
+        "general_stats_table": {
+            "id": "general_stats_table",
+            "plot_type": "violin",
+            "layout": {
+                "autosize": true,
+                "colorway": [
+                    "#7cb5ec",
+                    "#434348",
+                    "#90ed7d",
+                    "#f7a35c",
+                    "#8085e9",
+                    "#f15c80",
+                    "#e4d354",
+                    "#2b908f",
+                    "#f45b5b",
+                    "#91e8e1"
+                ],
+                "font": {
+                    "family": "'Lucida Grande', 'Open Sans', verdana, arial, sans-serif"
+                },
+                "height": 500,
+                "hoverlabel": {
+                    "namelength": -1
+                },
+                "margin": {
+                    "b": 40,
+                    "l": 60,
+                    "pad": 0,
+                    "r": 15,
+                    "t": 50
+                },
+                "modebar": {
+                    "activecolor": "rgba(0, 0, 0, 1)",
+                    "bgcolor": "rgba(0, 0, 0, 0)",
+                    "color": "rgba(0, 0, 0, 0.5)"
+                },
+                "paper_bgcolor": "white",
+                "plot_bgcolor": "white",
+                "showlegend": false,
+                "title": {
+                    "font": {
+                        "size": 20
+                    },
+                    "text": "General Statistics",
+                    "x": 0.5,
+                    "xanchor": "center"
+                },
+                "xaxis": {
+                    "automargin": false,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.1)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,0.5)",
+                        "size": 9
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.1)"
+                },
+                "yaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.1)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,0.5)",
+                        "size": 9
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.1)"
+                },
+                "violingap": 0,
+                "grid": {
+                    "columns": 1,
+                    "roworder": "top to bottom",
+                    "ygap": 0.4
+                }
+            },
+            "datasets": [
+                {
+                    "plot_id": "general_stats_table",
+                    "label": "1",
+                    "uid": "general_stats_table",
+                    "dconfig": {
+                        "ylab": "1"
+                    },
+                    "layout": {
+                        "title": {
+                            "text": "General Statistics"
+                        },
+                        "xaxis": {
+                            "hoverformat": null,
+                            "ticksuffix": "",
+                            "title": {
+                                "text": null
+                            },
+                            "rangemode": "normal",
+                            "autorangeoptions": {
+                                "clipmin": null,
+                                "clipmax": null,
+                                "minallowed": null,
+                                "maxallowed": null
+                            }
+                        },
+                        "yaxis": {
+                            "hoverformat": null,
+                            "ticksuffix": "",
+                            "title": {
+                                "text": "1"
+                            },
+                            "rangemode": "normal",
+                            "autorangeoptions": {
+                                "clipmin": null,
+                                "clipmax": null,
+                                "minallowed": null,
+                                "maxallowed": null
+                            }
+                        }
+                    },
+                    "trace_params": {
+                        "hovertemplate": "<b>%{text}</b>: %{x}<extra></extra>",
+                        "orientation": "h",
+                        "box": {
+                            "visible": true
+                        },
+                        "meanline": {
+                            "visible": true
+                        },
+                        "fillcolor": "#b5b5b5",
+                        "line": {
+                            "width": 2,
+                            "color": "#b5b5b5"
+                        },
+                        "opacity": 0.5,
+                        "points": false,
+                        "hoveron": "points"
+                    },
+                    "pct_range": {
+                        "xaxis": {
+                            "min": 0,
+                            "max": 100
+                        },
+                        "yaxis": {
+                            "min": 0,
+                            "max": 100
+                        }
+                    },
+                    "metrics": [
+                        "mqc_generalstats_trimmomatic_dropped_pct"
+                    ],
+                    "header_by_metric": {
+                        "mqc_generalstats_trimmomatic_dropped_pct": {
+                            "title": "% Dropped",
+                            "description": "% Dropped reads",
+                            "suffix": "%",
+                            "dmin": 0.0,
+                            "dmax": 100.0,
+                            "hidden": false,
+                            "xaxis": {
+                                "ticksuffix": "%",
+                                "tickvals": null,
+                                "range": [
+                                    -0.5,
+                                    100.5025
+                                ]
+                            },
+                            "show_only_outliers": false,
+                            "show_points": true,
+                            "namespace": "Trimmomatic",
+                            "color": null,
+                            "hoverformat": ".2f"
+                        }
+                    },
+                    "violin_value_by_sample_by_metric": {
+                        "mqc_generalstats_trimmomatic_dropped_pct": {
+                            "SRR14240730": 0.02,
+                            "SRR14240737": 0.02,
+                            "SRR14240739": 0.01,
+                            "SRR14240794": 0.1,
+                            "SRR14240745": 0.04,
+                            "SRR14240793": 0.01,
+                            "SRR14240742": 0.0,
+                            "SRR14240777": 0.03,
+                            "SRR14240770": 0.06,
+                            "SRR14240779": 0.01,
+                            "SRR14240768": 0.02,
+                            "SRR14240761": 0.02,
+                            "SRR14240766": 0.02,
+                            "SRR14240753": 0.01,
+                            "SRR14240782": 0.04,
+                            "SRR14240754": 0.04,
+                            "SRR14240785": 0.16,
+                            "SRR14240778": 0.02,
+                            "SRR14240771": 0.01,
+                            "SRR14240776": 0.01,
+                            "SRR14240792": 0.68,
+                            "SRR14240743": 0.02,
+                            "SRR14240738": 0.01,
+                            "SRR14240795": 0.02,
+                            "SRR14240744": 0.01,
+                            "SRR14240736": 0.02,
+                            "SRR14240731": 0.02,
+                            "SRR14240755": 0.03,
+                            "SRR14240784": 0.01,
+                            "SRR14240752": 0.01,
+                            "SRR14240783": 0.01,
+                            "SRR14240767": 0.0,
+                            "SRR14240760": 0.01,
+                            "SRR14240769": 0.02,
+                            "SRR14240758": 0.01,
+                            "SRR14240789": 0.02,
+                            "SRR14240751": 0.25,
+                            "SRR14240780": 0.02,
+                            "SRR14240756": 0.03,
+                            "SRR14240787": 0.01,
+                            "SRR14240763": 0.01,
+                            "SRR14240764": 0.02,
+                            "SRR14240775": 0.01,
+                            "SRR14240772": 0.03,
+                            "SRR14240796": 0.02,
+                            "SRR14240747": 0.02,
+                            "SRR14240791": 0.02,
+                            "SRR14240740": 0.03,
+                            "SRR14240732": 0.01,
+                            "SRR14240735": 0.01,
+                            "SRR14240798": 0.04,
+                            "SRR14240749": 0.01,
+                            "SRR14240765": 0.01,
+                            "SRR14240762": 0.01,
+                            "SRR14240757": 0.04,
+                            "SRR14240786": 0.01,
+                            "SRR14240750": 0.05,
+                            "SRR14240781": 0.03,
+                            "SRR14240759": 0.02,
+                            "SRR14240788": 0.02,
+                            "SRR14240734": 0.01,
+                            "SRR14240748": 0.01,
+                            "SRR14240733": 0.01,
+                            "SRR14240790": 0.01,
+                            "SRR14240741": 0.02,
+                            "SRR14240797": 0.01,
+                            "SRR14240746": 0.04,
+                            "SRR14240773": 0.01,
+                            "SRR14240774": 0.02
+                        }
+                    },
+                    "scatter_value_by_sample_by_metric": {
+                        "mqc_generalstats_trimmomatic_dropped_pct": {}
+                    },
+                    "all_samples": [
+                        "SRR14240730",
+                        "SRR14240731",
+                        "SRR14240732",
+                        "SRR14240733",
+                        "SRR14240734",
+                        "SRR14240735",
+                        "SRR14240736",
+                        "SRR14240737",
+                        "SRR14240738",
+                        "SRR14240739",
+                        "SRR14240740",
+                        "SRR14240741",
+                        "SRR14240742",
+                        "SRR14240743",
+                        "SRR14240744",
+                        "SRR14240745",
+                        "SRR14240746",
+                        "SRR14240747",
+                        "SRR14240748",
+                        "SRR14240749",
+                        "SRR14240750",
+                        "SRR14240751",
+                        "SRR14240752",
+                        "SRR14240753",
+                        "SRR14240754",
+                        "SRR14240755",
+                        "SRR14240756",
+                        "SRR14240757",
+                        "SRR14240758",
+                        "SRR14240759",
+                        "SRR14240760",
+                        "SRR14240761",
+                        "SRR14240762",
+                        "SRR14240763",
+                        "SRR14240764",
+                        "SRR14240765",
+                        "SRR14240766",
+                        "SRR14240767",
+                        "SRR14240768",
+                        "SRR14240769",
+                        "SRR14240770",
+                        "SRR14240771",
+                        "SRR14240772",
+                        "SRR14240773",
+                        "SRR14240774",
+                        "SRR14240775",
+                        "SRR14240776",
+                        "SRR14240777",
+                        "SRR14240778",
+                        "SRR14240779",
+                        "SRR14240780",
+                        "SRR14240781",
+                        "SRR14240782",
+                        "SRR14240783",
+                        "SRR14240784",
+                        "SRR14240785",
+                        "SRR14240786",
+                        "SRR14240787",
+                        "SRR14240788",
+                        "SRR14240789",
+                        "SRR14240790",
+                        "SRR14240791",
+                        "SRR14240792",
+                        "SRR14240793",
+                        "SRR14240794",
+                        "SRR14240795",
+                        "SRR14240796",
+                        "SRR14240797",
+                        "SRR14240798"
+                    ],
+                    "scatter_trace_params": {
+                        "mode": "markers",
+                        "marker": {
+                            "size": 4,
+                            "color": "#0b79e6"
+                        },
+                        "showlegend": false,
+                        "hovertemplate": "<b>%{text}</b>: %{x}<extra></extra>",
+                        "hoverlabel": {
+                            "bgcolor": "white"
+                        }
+                    }
+                }
+            ],
+            "pconfig": {
+                "id": "general_stats_table",
+                "table_title": null,
+                "title": "General Statistics",
+                "height": null,
+                "width": null,
+                "square": false,
+                "logswitch": false,
+                "logswitch_active": false,
+                "logswitch_label": "Log10",
+                "cpswitch": true,
+                "cpswitch_c_active": true,
+                "cpswitch_counts_label": "Counts",
+                "cpswitch_percent_label": "Percentages",
+                "xLog": null,
+                "yLog": null,
+                "xlog": false,
+                "ylog": false,
+                "data_labels": [],
+                "xTitle": null,
+                "yTitle": null,
+                "xlab": null,
+                "ylab": null,
+                "xsuffix": null,
+                "ysuffix": null,
+                "tt_suffix": null,
+                "xLabFormat": null,
+                "yLabFormat": null,
+                "xLabelFormat": null,
+                "yLabelFormat": null,
+                "xlab_format": null,
+                "ylab_format": null,
+                "tt_label": null,
+                "xDecimals": null,
+                "yDecimals": null,
+                "decimalPlaces": null,
+                "x_decimals": null,
+                "y_decimals": null,
+                "tt_decimals": null,
+                "xmin": null,
+                "xmax": null,
+                "ymin": null,
+                "ymax": null,
+                "xFloor": null,
+                "xCeiling": null,
+                "yFloor": null,
+                "yCeiling": null,
+                "x_clipmin": null,
+                "x_clipmax": null,
+                "y_clipmin": null,
+                "y_clipmax": null,
+                "save_data_file": true,
+                "showlegend": null
+            },
+            "add_log_tab": false,
+            "add_pct_tab": false,
+            "l_active": false,
+            "p_active": false,
+            "pct_axis_update": {
+                "ticksuffix": "%",
+                "hoverformat": ".1f"
+            },
+            "axis_controlled_by_switches": [],
+            "square": false,
+            "flat": false,
+            "violin_height": 70,
+            "extra_height": 63,
+            "no_violin": false,
+            "show_table": true,
+            "show_table_by_default": true,
+            "n_samples": 69,
+            "main_table_dt": {
+                "id": "table-general_stats_table",
+                "raw_data": [
+                    {
+                        "SRR14240730": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240737": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240739": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240794": {
+                            "dropped_pct": 0.1
+                        },
+                        "SRR14240745": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240793": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240742": {
+                            "dropped_pct": 0.0
+                        },
+                        "SRR14240777": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240770": {
+                            "dropped_pct": 0.06
+                        },
+                        "SRR14240779": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240768": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240761": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240766": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240753": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240782": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240754": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240785": {
+                            "dropped_pct": 0.16
+                        },
+                        "SRR14240778": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240771": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240776": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240792": {
+                            "dropped_pct": 0.68
+                        },
+                        "SRR14240743": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240738": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240795": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240744": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240736": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240731": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240755": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240784": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240752": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240783": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240767": {
+                            "dropped_pct": 0.0
+                        },
+                        "SRR14240760": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240769": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240758": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240789": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240751": {
+                            "dropped_pct": 0.25
+                        },
+                        "SRR14240780": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240756": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240787": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240763": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240764": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240775": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240772": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240796": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240747": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240791": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240740": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240732": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240735": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240798": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240749": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240765": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240762": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240757": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240786": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240750": {
+                            "dropped_pct": 0.05
+                        },
+                        "SRR14240781": {
+                            "dropped_pct": 0.03
+                        },
+                        "SRR14240759": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240788": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240734": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240748": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240733": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240790": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240741": {
+                            "dropped_pct": 0.02
+                        },
+                        "SRR14240797": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240746": {
+                            "dropped_pct": 0.04
+                        },
+                        "SRR14240773": {
+                            "dropped_pct": 0.01
+                        },
+                        "SRR14240774": {
+                            "dropped_pct": 0.02
+                        }
+                    }
+                ],
+                "formatted_data": [
+                    {
+                        "SRR14240730": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240737": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240739": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240794": {
+                            "dropped_pct": "0.1"
+                        },
+                        "SRR14240745": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240793": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240742": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240777": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240770": {
+                            "dropped_pct": "0.1"
+                        },
+                        "SRR14240779": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240768": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240761": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240766": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240753": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240782": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240754": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240785": {
+                            "dropped_pct": "0.2"
+                        },
+                        "SRR14240778": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240771": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240776": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240792": {
+                            "dropped_pct": "0.7"
+                        },
+                        "SRR14240743": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240738": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240795": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240744": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240736": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240731": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240755": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240784": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240752": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240783": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240767": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240760": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240769": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240758": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240789": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240751": {
+                            "dropped_pct": "0.2"
+                        },
+                        "SRR14240780": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240756": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240787": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240763": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240764": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240775": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240772": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240796": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240747": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240791": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240740": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240732": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240735": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240798": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240749": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240765": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240762": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240757": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240786": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240750": {
+                            "dropped_pct": "0.1"
+                        },
+                        "SRR14240781": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240759": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240788": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240734": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240748": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240733": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240790": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240741": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240797": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240746": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240773": {
+                            "dropped_pct": "0.0"
+                        },
+                        "SRR14240774": {
+                            "dropped_pct": "0.0"
+                        }
+                    }
+                ],
+                "headers_in_order": {
+                    "1000": [
+                        [
+                            0,
+                            "dropped_pct"
+                        ]
+                    ]
+                },
+                "headers": [
+                    {
+                        "dropped_pct": {
+                            "id": null,
+                            "rid": "mqc_generalstats_trimmomatic_dropped_pct",
+                            "title": "% Dropped",
+                            "description": "% Dropped reads",
+                            "namespace": "Trimmomatic",
+                            "scale": "OrRd",
+                            "hidden": false,
+                            "colour": null,
+                            "color": null,
+                            "placement": 1000.0,
+                            "max": 100.0,
+                            "dmax": 100.0,
+                            "min": 0.0,
+                            "dmin": 0.0,
+                            "ceiling": null,
+                            "floor": null,
+                            "minrange": null,
+                            "shared_key": null,
+                            "tt_decimals": null,
+                            "suffix": "%",
+                            "cond_formatting_colours": [
+                                {
+                                    "blue": "#337ab7"
+                                },
+                                {
+                                    "lbue": "#5bc0de"
+                                },
+                                {
+                                    "pass": "#5cb85c"
+                                },
+                                {
+                                    "warn": "#f0ad4e"
+                                },
+                                {
+                                    "fail": "#d9534f"
+                                }
+                            ],
+                            "cond_formatting_rules": {},
+                            "bgcols": {},
+                            "bars_zero_centrepoint": false
+                        }
+                    }
+                ],
+                "pconfig": {
+                    "id": "general_stats_table",
+                    "table_title": null,
+                    "title": "General Statistics",
+                    "height": null,
+                    "width": null,
+                    "square": false,
+                    "logswitch": false,
+                    "logswitch_active": false,
+                    "logswitch_label": "Log10",
+                    "cpswitch": true,
+                    "cpswitch_c_active": true,
+                    "cpswitch_counts_label": "Counts",
+                    "cpswitch_percent_label": "Percentages",
+                    "xLog": null,
+                    "yLog": null,
+                    "xlog": false,
+                    "ylog": false,
+                    "data_labels": [],
+                    "xTitle": null,
+                    "yTitle": null,
+                    "xlab": null,
+                    "ylab": null,
+                    "xsuffix": null,
+                    "ysuffix": null,
+                    "tt_suffix": null,
+                    "xLabFormat": null,
+                    "yLabFormat": null,
+                    "xLabelFormat": null,
+                    "yLabelFormat": null,
+                    "xlab_format": null,
+                    "ylab_format": null,
+                    "tt_label": null,
+                    "xDecimals": null,
+                    "yDecimals": null,
+                    "decimalPlaces": null,
+                    "x_decimals": null,
+                    "y_decimals": null,
+                    "tt_decimals": null,
+                    "xmin": null,
+                    "xmax": null,
+                    "ymin": null,
+                    "ymax": null,
+                    "xFloor": null,
+                    "xCeiling": null,
+                    "yFloor": null,
+                    "yCeiling": null,
+                    "x_clipmin": null,
+                    "x_clipmax": null,
+                    "y_clipmin": null,
+                    "y_clipmax": null,
+                    "save_data_file": true,
+                    "showlegend": null,
+                    "namespace": "",
+                    "save_file": true,
+                    "raw_data_fn": "multiqc_general_stats",
+                    "defaultsort": null,
+                    "sortRows": true,
+                    "sort_rows": true,
+                    "only_defined_headers": true,
+                    "col1_header": "Sample Name",
+                    "no_beeswarm": false,
+                    "no_violin": false,
+                    "scale": "GnBu",
+                    "min": null
+                }
+            }
+        }
+    },
+    "report_saved_raw_data": {
+        "multiqc_trimmomatic": {
+            "SRR14240730": {
+                "input_read_pairs": 79148931.0,
+                "surviving": 77977945.0,
+                "surviving_pct": 98.52,
+                "forward_only_surviving": 476.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1151920.0,
+                "reverse_only_surviving_pct": 1.46,
+                "dropped": 18590.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240737": {
+                "input_read_pairs": 111134489.0,
+                "surviving": 108550962.0,
+                "surviving_pct": 97.68,
+                "forward_only_surviving": 488.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2559866.0,
+                "reverse_only_surviving_pct": 2.3,
+                "dropped": 23173.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240739": {
+                "input_read_pairs": 89701314.0,
+                "surviving": 88304622.0,
+                "surviving_pct": 98.44,
+                "forward_only_surviving": 299.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1384008.0,
+                "reverse_only_surviving_pct": 1.54,
+                "dropped": 12385.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240794": {
+                "input_read_pairs": 65081273.0,
+                "surviving": 60821945.0,
+                "surviving_pct": 93.46,
+                "forward_only_surviving": 503.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 4195717.0,
+                "reverse_only_surviving_pct": 6.45,
+                "dropped": 63108.0,
+                "dropped_pct": 0.1
+            },
+            "SRR14240745": {
+                "input_read_pairs": 77610063.0,
+                "surviving": 76390605.0,
+                "surviving_pct": 98.43,
+                "forward_only_surviving": 299.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1191429.0,
+                "reverse_only_surviving_pct": 1.54,
+                "dropped": 27730.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240793": {
+                "input_read_pairs": 160229732.0,
+                "surviving": 159215544.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 4498.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 987372.0,
+                "reverse_only_surviving_pct": 0.62,
+                "dropped": 22318.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240742": {
+                "input_read_pairs": 41556220.0,
+                "surviving": 41306042.0,
+                "surviving_pct": 99.4,
+                "forward_only_surviving": 81.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 248560.0,
+                "reverse_only_surviving_pct": 0.6,
+                "dropped": 1537.0,
+                "dropped_pct": 0.0
+            },
+            "SRR14240777": {
+                "input_read_pairs": 86093228.0,
+                "surviving": 85046288.0,
+                "surviving_pct": 98.78,
+                "forward_only_surviving": 2490.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1017645.0,
+                "reverse_only_surviving_pct": 1.18,
+                "dropped": 26805.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240770": {
+                "input_read_pairs": 85194821.0,
+                "surviving": 83473842.0,
+                "surviving_pct": 97.98,
+                "forward_only_surviving": 2203.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1668319.0,
+                "reverse_only_surviving_pct": 1.96,
+                "dropped": 50457.0,
+                "dropped_pct": 0.06
+            },
+            "SRR14240779": {
+                "input_read_pairs": 122269286.0,
+                "surviving": 120844106.0,
+                "surviving_pct": 98.83,
+                "forward_only_surviving": 3241.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1407175.0,
+                "reverse_only_surviving_pct": 1.15,
+                "dropped": 14764.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240768": {
+                "input_read_pairs": 59726873.0,
+                "surviving": 59353138.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 1605.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 361294.0,
+                "reverse_only_surviving_pct": 0.6,
+                "dropped": 10836.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240761": {
+                "input_read_pairs": 71003599.0,
+                "surviving": 67034112.0,
+                "surviving_pct": 94.41,
+                "forward_only_surviving": 1717.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3952317.0,
+                "reverse_only_surviving_pct": 5.57,
+                "dropped": 15453.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240766": {
+                "input_read_pairs": 87272354.0,
+                "surviving": 86810901.0,
+                "surviving_pct": 99.47,
+                "forward_only_surviving": 2349.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 442471.0,
+                "reverse_only_surviving_pct": 0.51,
+                "dropped": 16633.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240753": {
+                "input_read_pairs": 97383610.0,
+                "surviving": 96115601.0,
+                "surviving_pct": 98.7,
+                "forward_only_surviving": 2474.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1259445.0,
+                "reverse_only_surviving_pct": 1.29,
+                "dropped": 6090.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240782": {
+                "input_read_pairs": 79809665.0,
+                "surviving": 78684762.0,
+                "surviving_pct": 98.59,
+                "forward_only_surviving": 2078.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1090836.0,
+                "reverse_only_surviving_pct": 1.37,
+                "dropped": 31989.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240754": {
+                "input_read_pairs": 60898209.0,
+                "surviving": 57786361.0,
+                "surviving_pct": 94.89,
+                "forward_only_surviving": 288.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3087988.0,
+                "reverse_only_surviving_pct": 5.07,
+                "dropped": 23572.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240785": {
+                "input_read_pairs": 76696750.0,
+                "surviving": 70221939.0,
+                "surviving_pct": 91.56,
+                "forward_only_surviving": 1288.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 6352666.0,
+                "reverse_only_surviving_pct": 8.28,
+                "dropped": 120857.0,
+                "dropped_pct": 0.16
+            },
+            "SRR14240778": {
+                "input_read_pairs": 90319169.0,
+                "surviving": 89112119.0,
+                "surviving_pct": 98.66,
+                "forward_only_surviving": 2403.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1187553.0,
+                "reverse_only_surviving_pct": 1.31,
+                "dropped": 17094.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240771": {
+                "input_read_pairs": 66771440.0,
+                "surviving": 64712396.0,
+                "surviving_pct": 96.92,
+                "forward_only_surviving": 1946.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2049096.0,
+                "reverse_only_surviving_pct": 3.07,
+                "dropped": 8002.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240776": {
+                "input_read_pairs": 97246996.0,
+                "surviving": 96713583.0,
+                "surviving_pct": 99.45,
+                "forward_only_surviving": 2706.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 522395.0,
+                "reverse_only_surviving_pct": 0.54,
+                "dropped": 8312.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240792": {
+                "input_read_pairs": 78029729.0,
+                "surviving": 67987553.0,
+                "surviving_pct": 87.13,
+                "forward_only_surviving": 4496.0,
+                "forward_only_surviving_pct": 0.01,
+                "reverse_only_surviving": 9505105.0,
+                "reverse_only_surviving_pct": 12.18,
+                "dropped": 532575.0,
+                "dropped_pct": 0.68
+            },
+            "SRR14240743": {
+                "input_read_pairs": 66713043.0,
+                "surviving": 66252593.0,
+                "surviving_pct": 99.31,
+                "forward_only_surviving": 248.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 449293.0,
+                "reverse_only_surviving_pct": 0.67,
+                "dropped": 10909.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240738": {
+                "input_read_pairs": 113341448.0,
+                "surviving": 110649389.0,
+                "surviving_pct": 97.62,
+                "forward_only_surviving": 258.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2683050.0,
+                "reverse_only_surviving_pct": 2.37,
+                "dropped": 8751.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240795": {
+                "input_read_pairs": 100314395.0,
+                "surviving": 99827756.0,
+                "surviving_pct": 99.51,
+                "forward_only_surviving": 2383.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 462781.0,
+                "reverse_only_surviving_pct": 0.46,
+                "dropped": 21475.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240744": {
+                "input_read_pairs": 114240276.0,
+                "surviving": 112626504.0,
+                "surviving_pct": 98.59,
+                "forward_only_surviving": 441.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1596999.0,
+                "reverse_only_surviving_pct": 1.4,
+                "dropped": 16332.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240736": {
+                "input_read_pairs": 95088101.0,
+                "surviving": 92526231.0,
+                "surviving_pct": 97.31,
+                "forward_only_surviving": 448.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2539791.0,
+                "reverse_only_surviving_pct": 2.67,
+                "dropped": 21631.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240731": {
+                "input_read_pairs": 97203845.0,
+                "surviving": 96577448.0,
+                "surviving_pct": 99.36,
+                "forward_only_surviving": 386.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 610765.0,
+                "reverse_only_surviving_pct": 0.63,
+                "dropped": 15246.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240755": {
+                "input_read_pairs": 85657772.0,
+                "surviving": 83874704.0,
+                "surviving_pct": 97.92,
+                "forward_only_surviving": 2364.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1754510.0,
+                "reverse_only_surviving_pct": 2.05,
+                "dropped": 26194.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240784": {
+                "input_read_pairs": 94447113.0,
+                "surviving": 93162343.0,
+                "surviving_pct": 98.64,
+                "forward_only_surviving": 2900.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1270059.0,
+                "reverse_only_surviving_pct": 1.34,
+                "dropped": 11811.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240752": {
+                "input_read_pairs": 69602313.0,
+                "surviving": 68886111.0,
+                "surviving_pct": 98.97,
+                "forward_only_surviving": 323.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 708373.0,
+                "reverse_only_surviving_pct": 1.02,
+                "dropped": 7506.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240783": {
+                "input_read_pairs": 82841182.0,
+                "surviving": 82320998.0,
+                "surviving_pct": 99.37,
+                "forward_only_surviving": 2142.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 509086.0,
+                "reverse_only_surviving_pct": 0.61,
+                "dropped": 8956.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240767": {
+                "input_read_pairs": 85351805.0,
+                "surviving": 84952821.0,
+                "surviving_pct": 99.53,
+                "forward_only_surviving": 2117.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 392676.0,
+                "reverse_only_surviving_pct": 0.46,
+                "dropped": 4191.0,
+                "dropped_pct": 0.0
+            },
+            "SRR14240760": {
+                "input_read_pairs": 102286322.0,
+                "surviving": 101771012.0,
+                "surviving_pct": 99.5,
+                "forward_only_surviving": 2625.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 502001.0,
+                "reverse_only_surviving_pct": 0.49,
+                "dropped": 10684.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240769": {
+                "input_read_pairs": 119288369.0,
+                "surviving": 117409865.0,
+                "surviving_pct": 98.43,
+                "forward_only_surviving": 2893.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1856887.0,
+                "reverse_only_surviving_pct": 1.56,
+                "dropped": 18724.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240758": {
+                "input_read_pairs": 55609493.0,
+                "surviving": 55300061.0,
+                "surviving_pct": 99.44,
+                "forward_only_surviving": 1474.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 303731.0,
+                "reverse_only_surviving_pct": 0.55,
+                "dropped": 4227.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240789": {
+                "input_read_pairs": 90804491.0,
+                "surviving": 86909879.0,
+                "surviving_pct": 95.71,
+                "forward_only_surviving": 2731.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3875265.0,
+                "reverse_only_surviving_pct": 4.27,
+                "dropped": 16616.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240751": {
+                "input_read_pairs": 75653817.0,
+                "surviving": 71519196.0,
+                "surviving_pct": 94.53,
+                "forward_only_surviving": 660.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3942710.0,
+                "reverse_only_surviving_pct": 5.21,
+                "dropped": 191251.0,
+                "dropped_pct": 0.25
+            },
+            "SRR14240780": {
+                "input_read_pairs": 115141880.0,
+                "surviving": 112774863.0,
+                "surviving_pct": 97.94,
+                "forward_only_surviving": 3170.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2336507.0,
+                "reverse_only_surviving_pct": 2.03,
+                "dropped": 27340.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240756": {
+                "input_read_pairs": 56406911.0,
+                "surviving": 54199671.0,
+                "surviving_pct": 96.09,
+                "forward_only_surviving": 319.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2188587.0,
+                "reverse_only_surviving_pct": 3.88,
+                "dropped": 18334.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240787": {
+                "input_read_pairs": 118094700.0,
+                "surviving": 117300909.0,
+                "surviving_pct": 99.33,
+                "forward_only_surviving": 3056.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 781290.0,
+                "reverse_only_surviving_pct": 0.66,
+                "dropped": 9445.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240763": {
+                "input_read_pairs": 68709406.0,
+                "surviving": 67485888.0,
+                "surviving_pct": 98.22,
+                "forward_only_surviving": 1946.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1212678.0,
+                "reverse_only_surviving_pct": 1.76,
+                "dropped": 8894.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240764": {
+                "input_read_pairs": 87759056.0,
+                "surviving": 85919422.0,
+                "surviving_pct": 97.9,
+                "forward_only_surviving": 2228.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1817923.0,
+                "reverse_only_surviving_pct": 2.07,
+                "dropped": 19483.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240775": {
+                "input_read_pairs": 126237864.0,
+                "surviving": 123835577.0,
+                "surviving_pct": 98.1,
+                "forward_only_surviving": 3392.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2383071.0,
+                "reverse_only_surviving_pct": 1.89,
+                "dropped": 15824.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240772": {
+                "input_read_pairs": 86526700.0,
+                "surviving": 84761456.0,
+                "surviving_pct": 97.96,
+                "forward_only_surviving": 2218.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1739435.0,
+                "reverse_only_surviving_pct": 2.01,
+                "dropped": 23591.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240796": {
+                "input_read_pairs": 88092746.0,
+                "surviving": 87133604.0,
+                "surviving_pct": 98.91,
+                "forward_only_surviving": 2522.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 941616.0,
+                "reverse_only_surviving_pct": 1.07,
+                "dropped": 15004.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240747": {
+                "input_read_pairs": 73494716.0,
+                "surviving": 72691146.0,
+                "surviving_pct": 98.91,
+                "forward_only_surviving": 217.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 792208.0,
+                "reverse_only_surviving_pct": 1.08,
+                "dropped": 11145.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240791": {
+                "input_read_pairs": 100740685.0,
+                "surviving": 98924922.0,
+                "surviving_pct": 98.2,
+                "forward_only_surviving": 2676.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1797825.0,
+                "reverse_only_surviving_pct": 1.78,
+                "dropped": 15262.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240740": {
+                "input_read_pairs": 100076785.0,
+                "surviving": 98747873.0,
+                "surviving_pct": 98.67,
+                "forward_only_surviving": 568.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1300980.0,
+                "reverse_only_surviving_pct": 1.3,
+                "dropped": 27364.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240732": {
+                "input_read_pairs": 80653290.0,
+                "surviving": 79694758.0,
+                "surviving_pct": 98.81,
+                "forward_only_surviving": 234.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 948007.0,
+                "reverse_only_surviving_pct": 1.18,
+                "dropped": 10291.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240735": {
+                "input_read_pairs": 141622218.0,
+                "surviving": 140202759.0,
+                "surviving_pct": 99.0,
+                "forward_only_surviving": 333.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1409702.0,
+                "reverse_only_surviving_pct": 1.0,
+                "dropped": 9424.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240798": {
+                "input_read_pairs": 89673932.0,
+                "surviving": 88533280.0,
+                "surviving_pct": 98.73,
+                "forward_only_surviving": 536.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1105190.0,
+                "reverse_only_surviving_pct": 1.23,
+                "dropped": 34926.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240749": {
+                "input_read_pairs": 97276313.0,
+                "surviving": 96346768.0,
+                "surviving_pct": 99.04,
+                "forward_only_surviving": 233.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 916492.0,
+                "reverse_only_surviving_pct": 0.94,
+                "dropped": 12820.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240765": {
+                "input_read_pairs": 125066483.0,
+                "surviving": 123282278.0,
+                "surviving_pct": 98.57,
+                "forward_only_surviving": 3265.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1765300.0,
+                "reverse_only_surviving_pct": 1.41,
+                "dropped": 15640.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240762": {
+                "input_read_pairs": 154183677.0,
+                "surviving": 153132353.0,
+                "surviving_pct": 99.32,
+                "forward_only_surviving": 4026.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1032521.0,
+                "reverse_only_surviving_pct": 0.67,
+                "dropped": 14777.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240757": {
+                "input_read_pairs": 79835228.0,
+                "surviving": 76366126.0,
+                "surviving_pct": 95.65,
+                "forward_only_surviving": 2237.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 3434160.0,
+                "reverse_only_surviving_pct": 4.3,
+                "dropped": 32705.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240786": {
+                "input_read_pairs": 103953636.0,
+                "surviving": 103352548.0,
+                "surviving_pct": 99.42,
+                "forward_only_surviving": 2615.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 589130.0,
+                "reverse_only_surviving_pct": 0.57,
+                "dropped": 9343.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240750": {
+                "input_read_pairs": 86240410.0,
+                "surviving": 84725564.0,
+                "surviving_pct": 98.24,
+                "forward_only_surviving": 289.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1471509.0,
+                "reverse_only_surviving_pct": 1.71,
+                "dropped": 43048.0,
+                "dropped_pct": 0.05
+            },
+            "SRR14240781": {
+                "input_read_pairs": 76629266.0,
+                "surviving": 74232553.0,
+                "surviving_pct": 96.87,
+                "forward_only_surviving": 2089.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2369749.0,
+                "reverse_only_surviving_pct": 3.09,
+                "dropped": 24875.0,
+                "dropped_pct": 0.03
+            },
+            "SRR14240759": {
+                "input_read_pairs": 45162528.0,
+                "surviving": 44600090.0,
+                "surviving_pct": 98.75,
+                "forward_only_surviving": 1220.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 554290.0,
+                "reverse_only_surviving_pct": 1.23,
+                "dropped": 6928.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240788": {
+                "input_read_pairs": 58652379.0,
+                "surviving": 57368395.0,
+                "surviving_pct": 97.81,
+                "forward_only_surviving": 1541.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1273402.0,
+                "reverse_only_surviving_pct": 2.17,
+                "dropped": 9041.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240734": {
+                "input_read_pairs": 132562076.0,
+                "surviving": 130806061.0,
+                "surviving_pct": 98.68,
+                "forward_only_surviving": 370.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1741042.0,
+                "reverse_only_surviving_pct": 1.31,
+                "dropped": 14603.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240748": {
+                "input_read_pairs": 95814948.0,
+                "surviving": 93445925.0,
+                "surviving_pct": 97.53,
+                "forward_only_surviving": 273.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 2360203.0,
+                "reverse_only_surviving_pct": 2.46,
+                "dropped": 8547.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240733": {
+                "input_read_pairs": 66446736.0,
+                "surviving": 65695367.0,
+                "surviving_pct": 98.87,
+                "forward_only_surviving": 134.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 745758.0,
+                "reverse_only_surviving_pct": 1.12,
+                "dropped": 5477.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240790": {
+                "input_read_pairs": 73956527.0,
+                "surviving": 72417672.0,
+                "surviving_pct": 97.92,
+                "forward_only_surviving": 1811.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1527025.0,
+                "reverse_only_surviving_pct": 2.06,
+                "dropped": 10019.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240741": {
+                "input_read_pairs": 94577784.0,
+                "surviving": 92696131.0,
+                "surviving_pct": 98.01,
+                "forward_only_surviving": 218.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1859094.0,
+                "reverse_only_surviving_pct": 1.97,
+                "dropped": 22341.0,
+                "dropped_pct": 0.02
+            },
+            "SRR14240797": {
+                "input_read_pairs": 141093977.0,
+                "surviving": 139380513.0,
+                "surviving_pct": 98.79,
+                "forward_only_surviving": 3764.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1697554.0,
+                "reverse_only_surviving_pct": 1.2,
+                "dropped": 12146.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240746": {
+                "input_read_pairs": 98465977.0,
+                "surviving": 97650514.0,
+                "surviving_pct": 99.17,
+                "forward_only_surviving": 459.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 777497.0,
+                "reverse_only_surviving_pct": 0.79,
+                "dropped": 37507.0,
+                "dropped_pct": 0.04
+            },
+            "SRR14240773": {
+                "input_read_pairs": 88237700.0,
+                "surviving": 87013640.0,
+                "surviving_pct": 98.61,
+                "forward_only_surviving": 2369.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 1212354.0,
+                "reverse_only_surviving_pct": 1.37,
+                "dropped": 9337.0,
+                "dropped_pct": 0.01
+            },
+            "SRR14240774": {
+                "input_read_pairs": 27417898.0,
+                "surviving": 27040104.0,
+                "surviving_pct": 98.62,
+                "forward_only_surviving": 747.0,
+                "forward_only_surviving_pct": 0.0,
+                "reverse_only_surviving": 371614.0,
+                "reverse_only_surviving_pct": 1.36,
+                "dropped": 5433.0,
+                "dropped_pct": 0.02
+            }
+        },
+        "multiqc_general_stats": {
+            "SRR14240730": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240737": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240739": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240794": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.1
+            },
+            "SRR14240745": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240793": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240742": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.0
+            },
+            "SRR14240777": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240770": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.06
+            },
+            "SRR14240779": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240768": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240761": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240766": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240753": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240782": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240754": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240785": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.16
+            },
+            "SRR14240778": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240771": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240776": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240792": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.68
+            },
+            "SRR14240743": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240738": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240795": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240744": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240736": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240731": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240755": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240784": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240752": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240783": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240767": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.0
+            },
+            "SRR14240760": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240769": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240758": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240789": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240751": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.25
+            },
+            "SRR14240780": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240756": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240787": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240763": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240764": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240775": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240772": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240796": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240747": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240791": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240740": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240732": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240735": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240798": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240749": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240765": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240762": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240757": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240786": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240750": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.05
+            },
+            "SRR14240781": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.03
+            },
+            "SRR14240759": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240788": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240734": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240748": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240733": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240790": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240741": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            },
+            "SRR14240797": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240746": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.04
+            },
+            "SRR14240773": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.01
+            },
+            "SRR14240774": {
+                "Trimmomatic_mqc_generalstats_trimmomatic_dropped_pct": 0.02
+            }
+        }
+    },
+    "config_analysis_dir_abs": [
+        "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed"
+    ],
+    "config_analysis_dir": [
+        "."
+    ],
+    "config_creation_date": "2024-07-30, 00:55 EEST",
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/wrk-vakka/users/nikiarte/rnaseq_analysis/rnaseq_task_environment/lib/python3.12/site-packages/multiqc",
+    "config_short_version": "1.23",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.23",
+    "config_output_dir": "/wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/trimmed"
+}

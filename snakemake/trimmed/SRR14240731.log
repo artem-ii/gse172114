@@ -1,0 +1,17 @@
+TrimmomaticPE: Started with arguments:
+ -threads 64 data/samples/SRR14240731_1.fastq data/samples/SRR14240731_2.fastq -baseout trimmed/SRR14240731.fastq ILLUMINACLIP:TruSeq3-PE-2.fa:2:30:10:2:keepBothReads LEADING:3 TRAILING:3 MINLEN:36
+Using templated Output files: trimmed/SRR14240731_1P.fastq trimmed/SRR14240731_1U.fastq trimmed/SRR14240731_2P.fastq trimmed/SRR14240731_2U.fastq
+java.io.FileNotFoundException: /wrk-vakka/users/nikiarte/rnaseq_analysis/snakemake/TruSeq3-PE-2.fa (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Quality encoding detected as phred33
+Input Read Pairs: 97203845 Both Surviving: 96577448 (99.36%) Forward Only Surviving: 386 (0.00%) Reverse Only Surviving: 610765 (0.63%) Dropped: 15246 (0.02%)
+TrimmomaticPE: Completed successfully
