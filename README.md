@@ -1,6 +1,6 @@
 UPD 20240809: improved reading raw featureCounts files
 
-To-Do: Logistic regression on HLA typing data
+To-Do: Logistic regression on HLA typing data, created a branch 'feature_logistic_hla' for that 
 
 Checked duplicates and decided against changing anything. Most analysis is done at the unique gene id level and this is good. Symbols appear only at the end of WGCNA and GSEA, which is I think fine.
 
