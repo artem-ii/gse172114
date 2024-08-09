@@ -1,3 +1,6 @@
+UPD 20240809: improved reading raw featureCounts files
+TO-DO: Deal with duplicates
+
 UPD 20240807_1: added QC reports and logs from Trimmomatic, STAR and logs for Kallisto realized that I added them to .gitignore by mistake
 
 UPD 20240807_2: added some more tool descriptions to Snakefile
