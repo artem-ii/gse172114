@@ -1,5 +1,7 @@
 UPD 20240809: improved reading raw featureCounts files
 
+To-Do: Logistic regression on HLA typing data
+
 Checked duplicates and decided against changing anything. Most analysis is done at the unique gene id level and this is good. Symbols appear only at the end of WGCNA and GSEA, which is I think fine.
 
 UPD 20240807_1: added QC reports and logs from Trimmomatic, STAR and logs for Kallisto realized that I added them to .gitignore by mistake
