@@ -1,4 +1,4 @@
-UPD 20240813: Added HLA analysis, checked stats duplicates in GSEA.
+UPD 20240813: Added HLA analysis, checked stats duplicates in GSEA. Merged branches.
 
 UPD 20240809: improved reading raw featureCounts files
 
