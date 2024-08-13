@@ -1,4 +1,5 @@
 UPD 20240813: Added HLA analysis, checked stats duplicates in GSEA.
+
 UPD 20240809: improved reading raw featureCounts files
 
 To-Do: Logistic regression on HLA typing data, created a branch 'feature_logistic_hla' for that 
