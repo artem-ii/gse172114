@@ -103,8 +103,7 @@ rule seq2hla:
         python shellScripts/seq2hla/seq2HLA_class2_only.py -1 {input.sampleF} -2 {input.sampleR} -r {params.out_prefix} -p {threads}
         """
 
-# The only tool with a publication I was able to find for HLA typing. I've commented out a part of a pipeline that types NOT HLA II. It was running for quite long and was not very interruption proof. So I decided to only keep
-what I needed.
+# The only tool with a publication I was able to find for HLA typing. I've commented out a part of a pipeline that types NOT HLA II. It was running for quite long and was not very interruption proof. So I decided to only keep what I needed.
 
 #rule kallisto_index:
 #    input:
